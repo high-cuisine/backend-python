@@ -1,0 +1,256 @@
+language,name,category_id
+RUS,Вино красное сухое,40
+ENG,Vine red dry,50
+RUS,Вино красное полусухое,40
+ENG,Vine red semi dry,50
+RUS,Вино красное сладкое,40
+ENG,Vine red sweet,50
+RUS,Вино красное полусладкое,40
+ENG,Vine red demi-sec,50
+RUS,Вино белое сухое,40
+ENG,Vine white dry,50
+RUS,Вино белое полусухое,40
+ENG,Vine white semi-dry,50
+RUS,Вино белое сладкое,40
+ENG,Vine white sweet,50
+RUS,Вино белое полусладкое,40
+ENG,Vine white semi-sweet,50
+RUS,Вино игристое,40
+ENG,Vine sparkling,50
+RUS,Вино розовое,40
+ENG,Vine rose,50
+RUS,Вино оранжевое,40
+ENG,Vine orange,50
+RUS,Вино тихое,40
+ENG,Vine still,50
+RUS,Вино экстра брют,40
+ENG,Vine extra brut,50
+RUS,Вино брют,40
+ENG,Vine brut,50
+RUS,Пиво пшеничное пиво,53
+ENG,Beer witbier,6
+RUS,Пиво берлинское белое,53
+ENG,Beer berliner weisse,6
+RUS,Пиво блонд эль,53
+ENG,Beer blonde ale,6
+RUS,Пиво пейл-эль,53
+ENG,Beer pale ale,6
+RUS,Пиво кёльш,53
+ENG,Beer kölsch,6
+RUS,Пиво золотой эль,53
+ENG,Beer golden ale,6
+RUS,Пиво трипель,53
+ENG,Beer tripel,6
+RUS,Пиво сезонный эль,53
+ENG,Beer saison ale,6
+RUS,Пиво английский биттер,53
+ENG,Beer english bitter,6
+RUS,Пиво красный эль,53
+ENG,Beer red ale,6
+RUS,Пиво дуббель,53
+ENG,Beer dubbel,6
+RUS,Пиво старый эль,53
+ENG,Beer old ale,6
+RUS,Пиво янтарный эль,53
+ENG,Beer amber ale,6
+RUS,Пиво квадрупель,53
+ENG,Beer quadrupel,6
+RUS,Пиво мягкий эль,53
+ENG,Beer mild ale,6
+RUS,Пиво старое коричневое,53
+ENG,Beer oud bruin,6
+RUS,Пиво тёмное пшеничное,53
+ENG,Beer dunkelweizen,6
+RUS,Пиво коричневый эль,53
+ENG,Beer brown ale,6
+RUS,Пиво портер,53
+ENG,Beer porter,6
+RUS,Пиво стаут,53
+ENG,Beer stout,6
+RUS,Пиво мюнхенское светлое,53
+ENG,Beer münchener hell,6
+RUS,Пиво пильзнер,53
+ENG,Beer pilsner,6
+RUS,Пиво экспорт (дортмундер),53
+ENG,Beer dortmunder,6
+RUS,Пиво майбок,53
+ENG,Beer maibock,6
+RUS,Пиво венский лагер,53
+ENG,Beer wiener lager,6
+RUS,Пиво келлербир,53
+ENG,Beer kellerbier,6
+RUS,Пиво доппельбок,53
+ENG,Beer doppelbock,6
+RUS,Пиво бок,53
+ENG,Beer bock,6
+RUS,Пиво пшеничный бок,53
+ENG,Beer weizenbock,6
+RUS,Пиво тёмный лагер,53
+ENG,Beer dunkel lager,6
+RUS,Пиво айсбок,53
+ENG,Beer eisbock,6
+RUS,Пиво чёрное пиво,53
+ENG,Beer schwarzbier,6
+RUS,Пиво лёгкое пиво,53
+ENG,Beer light/lite bee,6
+RUS,Пиво сливочный эль,53
+ENG,Beer cream ale,6
+RUS,Пиво ламбик,53
+ENG,Beer lambic,6
+RUS,Пиво мартовское пиво/октоберфест,53
+ENG,Beer märzen/oktoberfestbier,6
+RUS,Пиво бьер-де-гард,53
+ENG,Beer bière de garde,6
+RUS,Пиво барливайн,53
+ENG,Beer barley wine,6
+RUS,Пиво альтбир,53
+ENG,Beer altbier,6
+RUS,Пиво раухбир,53
+ENG,Beer rauchbier,6
+RUS,Водка анисовая,42
+ENG,Vodka aniseed vodka,14
+RUS,Водка сливовая,42
+ENG,Vodka plum,14
+RUS,Водка конопляная,42
+ENG,Vodka hemp,14
+RUS,Водка полынная,42
+ENG,Vodka wormwood,14
+RUS,Водка рисовая,42
+ENG,Vodka rice,14
+RUS,Водка тросниковая,42
+ENG,Vodka cane,14
+RUS,Водка сорговая,42
+ENG,Vodka sorghum,14
+RUS,Водка яблочная,42
+ENG,Vodka apple,14
+RUS,Водка пшеничная,42
+ENG,Vodka wheat,14
+RUS,Водка ягодная,42
+ENG,Vodka berry,14
+RUS,Водка цитрусовая,42
+ENG,Vodka citrus,14
+RUS,Водка пряная,42
+ENG,Vodka spiced,14
+RUS,Водка травяная,42
+ENG,Vodka herbal,14
+RUS,Водка фруктовая,42
+ENG,Vodka fruit,14
+RUS,Джин лондон сухой джин,45
+ENG,Gin london dry gin,20
+RUS,Джин плимутский,45
+ENG,Gin plymouth,20
+RUS,Джин старый том,45
+ENG,Gin old tom,20
+RUS,Джин женевер,45
+ENG,Gin genever,20
+RUS,Джин дистиллированный,45
+ENG,Gin distilled gin,20
+RUS,Джин желтый,45
+ENG,Gin yellow,20
+RUS,"Ром белый (серебряный, светлый)",49
+ENG,"Rum white (silver, light)",1
+RUS,Ром золотой (янтарный),49
+ENG,Rum golden (amber),1
+RUS,Ром темный (черный),49
+ENG,Rum dark (black),1
+RUS,Виски солодовый,36
+ENG,Whiskey malt,18
+RUS,Виски зерновой,36
+ENG,Whiskey grain whisky,18
+RUS,Виски односолодовый скотч,36
+ENG,Whiskey single malt scotch,18
+RUS,Виски купажированный солодовый,36
+ENG,Whiskey blended whisky,18
+RUS,Виски бочковой крепости,36
+ENG,Whiskey cask strength/barrel proof,18
+RUS,Виски бурбон,36
+ENG,Whiskey bourbon,18
+RUS,Виски кукурузный,36
+ENG,Whiskey corn,18
+RUS,Виски ржаной,36
+ENG,Whiskey rye whiskey,18
+RUS,Виски теннессийский,36
+ENG,Whiskey tennessee,18
+RUS,Коньяк коньяк 3*,46
+ENG,Cognac v.s (very special),25
+RUS,Коньяк коньяк 4*,46
+ENG,Cognac superior,25
+RUS,Коньяк коньяк 5*,46
+ENG,Cognac v.s.o.p. (very superior old pale),25
+RUS,Коньяк коньяк 6*,46
+ENG,Cognac v.o. (very old),25
+RUS,Коньяк коньяк более 6*,46
+ENG,Cognac vieux,25
+ENG,Cognac reserve,25
+ENG,Cognac v.v.s.o.p. (very very superior old pale),25
+ENG,Cognac grande reserve,25
+ENG,Cognac x.o. (extra old),25
+ENG,Cognac extra,25
+ENG,Cognac napoleon,25
+ENG,Cognac royal,25
+ENG,Cognac tres vieux,25
+ENG,Cognac vieille reserve braastad,25
+RUS,Текила cеребряная или белая,38
+ENG,"Tequila plata (silver), blanco",29
+RUS,Текила золотая,38
+ENG,Tequila oro (golden),29
+RUS,Текила отдохнувшая,38
+ENG,Tequila reposado,29
+RUS,Текила выдержанная,38
+ENG,Tequila añejo,29
+RUS,Текила экстра-выдержанная,38
+ENG,Tequila extra añejo,29
+RUS,Ликер фруктовый,23
+ENG,Liqueur fruit,3
+RUS,Ликер кофейный,23
+ENG,Liqueur coffee,3
+RUS,Ликер травяной и пряный,23
+ENG,Liqueur herbal and spiced,3
+RUS,Ликер мятный,23
+ENG,Liqueur mint,3
+RUS,Ликер сливочный,23
+ENG,Liqueur cream,3
+RUS,Ликер ягодный,23
+ENG,Liqueur berry,3
+RUS,Ликер ореховый,23
+ENG,Liqueur nut,3
+RUS,Ликер медовый,23
+ENG,Liqueur honey,3
+RUS,Бренди кальвадос,54
+ENG,Brandy calvados,11
+RUS,Бренди граппа,54
+ENG,Brandy grappa,11
+RUS,Бренди писко,54
+ENG,Brandy pisco,11
+RUS,Самбука белая,57
+ENG,Sambuca white,32
+RUS,Самбука черная,57
+ENG,Sambuca black,32
+RUS,Самбука красная,57
+ENG,Sambuca red,32
+RUS,Абсент зеленый,35
+ENG,Absinthe green,4
+RUS,Абсент синий,35
+ENG,Absinthe blue,4
+RUS,Абсент красный,35
+ENG,Absinthe red,4
+RUS,Абсент желтый,35
+ENG,Absinthe yellow,4
+RUS,Абсент белый,35
+ENG,Absinthe white,4
+RUS,Абсент черный,35
+ENG,Absinthe black,4
+RUS,Настойки наливка,58
+ENG,Liquors liqueur,16
+RUS,Настойки бальзам,58
+ENG,Liquors balsam,16
+RUS,Настойки биттер,58
+ENG,Liquors bitter,16
+RUS,Настойки хреновуха,58
+ENG,Liquors khrenovukha,16
+RUS,Настойки зубровка,58
+ENG,Liquors zubrovka,16
+RUS,Настойки ерофеич,58
+ENG,Liquors erofeich,16
+RUS,Настойки ратафия,58
+ENG,Liquors ratafia,16

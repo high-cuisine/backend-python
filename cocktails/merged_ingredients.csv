@@ -1,0 +1,638 @@
+ingredient_id,ingredient_name,subcategory_name,subcategory_id,processing_time,error_description
+1,151-proof demerara rum,Rum dark (black),388,0:00:03,
+2,151-proof rum,,,0:00:04,
+10,Alizé de france passion fruit liqueur,Liqueur fruit,203,0:00:02,
+13,Amer picon,Liqueur herbal and spiced,207,0:00:02,
+16,Angostura bitters,Liqueur herbal and spiced,1513,0:00:00,
+17,Anisette,Liqueur herbal and spiced,207,0:00:02,
+19,Apple brandy,Brandy calvados,219,0:00:02,
+20,Apple cider,,,0:00:00,No subcategories available for category Wine
+24,Apple schnapps,Vodka apple,124,0:00:02,
+25,Applejack,,,0:00:02,
+26,Apricot brandy,,,0:00:02,
+27,Apricot liqueur,Liqueur fruit,203,0:00:02,
+34,Banana liqueur,Liquors liqueur,243,0:00:02,
+36,Beaujolais,,,0:00:00,No subcategories available for category Wine
+38,Bitter lemon,Ликер фруктовый,1509,0:00:00,
+39,Bitter orange,Ликер фруктовый,1509,0:00:00,
+41,Black currant vodka,Vodka berry,128,0:00:02,
+45,Blackberry brandy,,,0:00:02,
+46,Blanco rum,"Rum white (silver, light)",150,0:00:02,
+47,Blended american whiskey,Whiskey blended whisky,162,0:00:02,
+48,Blended canadian whisky,Whiskey blended whisky,162,0:00:02,
+49,Blended scotch,Whiskey blended whisky,162,0:00:02,
+50,Blended whiskey,Whiskey blended whisky,162,0:00:02,
+51,Blue curaçao,Liqueur fruit,203,0:00:02,
+53,Bombay sapphire gin,Gin london dry gin,138,0:00:02,
+54,Bourbon,Whiskey bourbon,166,0:00:02,
+61,Brown ale,Beer brown ale,64,0:00:02,
+62,Brown crème de cacao,,,0:00:02,
+66,Butterscotch schnapps,,,0:00:02,
+67,Bénédictine,Liqueur herbal and spiced,207,0:00:02,
+68,Cabernet sauvignon,,,0:00:00,No subcategories available for category Wine
+69,Cachaça,Vodka cane,120,0:00:03,
+71,Calvados,Brandy calvados,1519,0:00:02,
+72,Campari,Liqueur herbal and spiced,207,0:00:02,
+73,Campari bitter,Ликер травяной и пряный,206,0:00:02,
+74,Canadian blended whisky,Whiskey blended whisky,162,0:00:03,
+75,Canadian whisky,Whiskey blended whisky,162,0:00:03,
+76,Candied ginger,,,0:00:00,No subcategories available for category Vegetables
+77,Canton ginger liqueur,Liqueur herbal and spiced,207,0:00:02,
+78,Captain morgan spiced rum,Rum golden (amber),152,0:00:02,
+83,Chambord,Liqueur berry,213,0:00:02,
+84,Champagne,,,0:00:00,No subcategories available for category Wine
+86,Cherry brandy,Liqueur berry,428,0:00:02,
+87,Cherry heering,Liqueur fruit,203,0:00:02,
+97,Citron rum,"Rum white (silver, light)",1492,0:00:02,
+98,Citron vodka,Vodka citrus,130,0:00:02,
+99,Citrus vodka,Vodka citrus,130,0:00:02,
+107,Coconut rum,"Rum white (silver, light)",1492,0:00:02,
+109,Cofee liqueur,Liqueur coffee,205,0:00:02,
+111,Coffee liqueur,Liqueur coffee,205,0:00:03,
+113,Cointreau,Liqueur fruit,203,0:00:02,
+123,Creme de menthe,Ликер мятный,208,0:00:02,
+124,Crème de banane,Liqueur fruit,203,0:00:38,
+125,Crème de cacao,,,0:00:02,
+126,Crème de cassis,Liqueur berry,213,0:00:02,
+127,Crème de fraise,Liqueur berry,213,0:00:02,
+128,Crème de frambois,Liqueur berry,213,0:00:02,
+129,Crème de framboise,Liqueur berry,213,0:00:02,
+130,Crème de menthe,Liqueur mint,209,0:00:02,
+132,Crème de noyaux,Liqueur nut,215,0:00:02,
+133,Crème de pêche,Liqueur fruit,203,0:00:02,
+134,Crème de violette,,,0:00:02,
+143,Cynar,Liqueur herbal and spiced,207,0:00:03,
+144,Damiana liqueur,Liqueur herbal and spiced,207,0:00:03,
+145,Dark crème de cacao,,,0:00:02,
+146,Dark demerara rum,Rum dark (black),154,0:00:03,
+147,Dark jamaican rum,Rum dark (black),154,0:00:03,
+148,Dark rum,Rum dark (black),154,0:00:02,
+156,Drambuie,Liqueur herbal and spiced,207,0:00:03,
+157,Dubonnet,,,0:00:00,No subcategories available for category Wine
+158,Dubonnet rouge,,,0:00:00,No subcategories available for category Wine
+171,Fino sherry,,,0:00:00,No subcategories available for category Wine
+173,Frangelico,Liqueur nut,215,0:00:02,
+179,Fresh ginger,Vodka spiced,142,0:00:00,
+216,Galliano,Liqueur herbal and spiced,207,0:00:02,
+219,Ginger,Liqueur herbal and spiced,1513,0:00:00,
+222,Ginger beer,,,0:00:00,No subcategories available for category Lemonade
+223,Ginger syrup,Liqueur herbal and spiced,1513,0:00:00,
+225,Godiva chocolate liqueur,,,0:00:03,
+226,Godiva liqueur,,,0:00:04,
+228,Gold rum,Rum golden (amber),152,0:00:02,
+229,Gold tequila,Tequila oro (golden),195,0:00:02,
+230,Goldschläger,Liqueur herbal and spiced,207,0:00:02,
+231,Goldschläger cinnamon schnapps,Liqueur herbal and spiced,207,0:00:02,
+232,Grand marnier,Liqueur fruit,203,0:00:02,
+235,Grated fresh ginger,Vodka spiced,142,0:00:00,
+241,Green chartreuse,Liqueur herbal and spiced,207,0:00:02,
+243,Green crème de menthe,Liqueur mint,209,0:00:03,
+256,Ground ginger,Liqueur herbal and spiced,1513,0:00:00,
+261,Haitian rum,Rum dark (black),154,0:00:02,
+263,Hard cider,,,0:00:00,No subcategories available for category Wine
+264,Harlequin orange liqueur,Liqueur fruit,203,0:00:02,
+265,Harveys bristol cream sherry,,,0:00:02,
+277,Irish cream liqueur,Liqueur cream,211,0:00:02,
+278,Irish mist liqueur,Liqueur honey,217,0:00:02,
+279,Irish whiskey,,,0:00:02,
+282,Jamaican rum,,,0:00:38,
+283,José cuervo especial tequila,"Tequila plata (silver), blanco",193,0:00:37,
+287,Keke beach lime liqueur,Liquors liqueur,243,0:00:37,
+288,Kentucky bourbon,Whiskey bourbon,166,0:00:02,
+298,Lemon-flavored vodka,Vodka citrus,130,0:00:02,
+303,Light puerto rican rum,"Rum white (silver, light)",150,0:00:02,
+304,Light rum,"Rum white (silver, light)",150,0:00:02,
+305,Lillet,,,0:00:00,No subcategories available for category Wine
+306,Lillet blanc,,,0:00:00,No subcategories available for category Wine
+307,Lillet blanc drop of orange,,,0:00:00,No subcategories available for category Wine
+313,Limoncello liqueur,Liquors liqueur,243,0:00:02,
+314,Madeira,,,0:00:00,No subcategories available for category Wine
+315,Malibu coconut rum,"Rum white (silver, light)",150,0:00:01,
+316,Malibu rum,"Rum white (silver, light)",150,0:00:02,
+318,Mandarin-flavored vodka,Vodka citrus,130,0:00:02,
+320,Mandarine napoléon liqueur,Liquors liqueur,243,0:00:02,
+328,Maraschino liqueur,Liquors liqueur,243,0:00:02,
+331,Melon liqueur,Liquors liqueur,243,0:00:02,
+332,Metaxa,,,0:00:03,
+334,Mezcal,,,0:00:02,
+336,Midori liqueur,Liquors liqueur,243,0:00:01,
+337,Midori melon liqueur,Liquors liqueur,243,0:00:02,
+342,Mug of beer,,,0:00:03,
+345,Myers’s dark rum,Rum dark (black),154,0:00:01,
+347,Nigori-sake,Vodka rice,118,0:00:04,
+350,Old tom gin,Gin old tom,142,0:00:02,
+352,Orange bitter,Ликер фруктовый,202,0:00:03,
+353,Orange bitters,Liquors bitter,247,0:00:03,
+356,Orange curaçao,Liqueur fruit,203,0:00:02,
+361,Orange-flavored vodka,Vodka citrus,130,0:00:03,
+365,Ouzo,Vodka aniseed vodka,110,0:00:02,
+372,Passion fruit liqueur,Liquors liqueur,243,0:00:37,
+378,Peach bitter,Ликер фруктовый,202,0:00:03,
+379,Peach brandy,,,0:00:02,
+380,Peach liqueur,Liquors liqueur,243,0:00:03,
+386,Pear brandy,,,0:00:03,
+390,Pernod,Absinthe green,231,0:00:02,
+404,Pisco brandy,Brandy pisco,223,0:00:02,
+405,Plum wine,,,0:00:00,No subcategories available for category Wine
+408,Port,,,0:00:00,No subcategories available for category Wine
+411,Premium silver tequila,"Tequila plata (silver), blanco",193,0:00:02,
+412,Premium-quality gin,,,0:00:02,
+416,Puerto rican light rum,"Rum white (silver, light)",150,0:00:02,
+422,Raspberry liqueur,Liquors liqueur,243,0:00:02,
+429,Reposado tequila,Tequila reposado,197,0:00:03,
+430,Rhum barbancourt,Rum golden (amber),152,0:00:02,
+431,Root beer schnapps,Liqueur herbal and spiced,1513,0:00:02,
+437,Ruby port,,,0:00:00,No subcategories available for category Wine
+439,Rumple minze,Liquors liqueur,243,0:00:02,
+440,Russian vodka,Vodka wheat,126,0:00:03,
+442,Sake,,,0:00:02,
+448,Scotch,Whiskey single malt scotch,160,0:00:02,
+449,Scotch whisky,Whiskey single malt scotch,160,0:00:04,
+452,Sherry,,,0:00:00,No subcategories available for category Wine
+454,Silver rum,"Rum white (silver, light)",150,0:00:02,
+455,Silver tequila,"Tequila plata (silver), blanco",193,0:00:02,
+457,Single-malt scotch,Whiskey single malt scotch,160,0:00:02,
+460,Sloe gin,Liqueur berry,428,0:00:02,
+465,Small-batch bourbon,Whiskey bourbon,166,0:00:02,
+473,Southern comfort,Liqueur fruit,203,0:00:02,
+476,Spiced rum,Rum golden (amber),1493,0:00:02,
+478,Stout,Beer stout,68,0:00:02,
+482,Strawberry liqueur,Liqueur berry,213,0:00:02,
+488,Swedish punsch,Liqueur herbal and spiced,207,0:00:02,
+489,Sweet marsala,,,0:00:00,No subcategories available for category Wine
+490,Sweet vermouth,,,0:00:00,No subcategories available for category Wine
+496,Tawny port,,,0:00:00,No subcategories available for category Wine
+498,Tequila per serving,,,0:00:02,
+505,Tia maria,Liqueur coffee,205,0:00:02,
+508,Triple sec,Liqueur fruit,203,0:00:02,
+510,Tuaca,Liqueur herbal and spiced,207,0:00:37,
+515,Vanilla-flavored vodka,Vodka spiced,132,0:00:38,
+521,Walnut liqueur,Liqueur nut,215,0:00:02,
+530,White rum,"Rum white (silver, light)",150,0:00:03,
+535,Yellow chartreuse,Liqueur herbal and spiced,207,0:00:02,
+537,Абрикосовый ликер,Ликер фруктовый,202,0:00:03,
+541,Абсент anisette,,,0:00:02,
+542,Абсент pastis,,,0:00:02,
+543,Абсент pernod,Абсент зеленый,230,0:00:02,
+544,Американский виски,Виски бурбон,395,0:00:02,
+549,Апельсиновый ликер,Ликер фруктовый,202,0:00:02,
+555,Банановый ликер,Ликер фруктовый,202,0:00:04,
+559,Белый ликер crème de menthe,Ликер мятный,208,0:00:02,
+560,Белый ликер curasao,Ликер фруктовый,202,0:00:02,
+561,Белый мятный ликер,Ликер мятный,208,0:00:02,
+578,Вино dubonnet,Вино красное сладкое,5,0:00:02,
+581,Виноград,,,0:00:00,No subcategories available for category Ягоды
+582,Виноградный сок,,,0:00:00,No subcategories available for category Сок
+584,Вишневая водка,Водка ягодная,127,0:00:02,
+586,Вишневый ликер,Ликер ягодный,212,0:00:02,
+603,Ежевичный бренди,Ликер ягодный,221,0:00:00,
+604,Ежевичный ликер,Ликер ягодный,212,0:00:02,
+608,Зеленый или белый ликер crème de menthe,Ликер мятный,208,0:00:02,
+609,Зеленый ликер crème de menthe,Ликер мятный,208,0:00:02,
+616,Ирландский виски,Виски солодовый,1494,0:00:02,
+617,Какао-ликер,Ликер кофейный,204,0:00:03,
+620,Канадский виски,Виски ржаной,169,0:00:02,
+625,Кленовый ликер,,,0:00:02,
+634,Кофейный ликер,Ликер кофейный,204,0:00:02,
+636,Красное вино,,,0:00:02,
+643,Ликер apricol brandy,Ликер фруктовый,202,0:00:37,
+644,Ликер apricot brandy,Ликер фруктовый,202,0:00:02,
+645,Ликер b&b,Ликер травяной и пряный,206,0:00:38,
+646,Ликер bailey's irish creame,Ликер сливочный,210,0:00:02,
+647,Ликер barack,Ликер фруктовый,202,0:00:02,
+648,Ликер batida de coco,Ликер фруктовый,202,0:00:02,
+651,Ликер cherry heering,Ликер ягодный,212,0:00:02,
+654,Ликер creme de cassis,Ликер ягодный,212,0:00:02,
+655,Ликер creme de menthe,Ликер мятный,208,0:00:02,
+659,Ликер crenadine,Ликер ягодный,221,0:00:02,
+660,Ликер crème de banane,Ликер фруктовый,202,0:00:02,
+661,Ликер crème de café,Ликер кофейный,204,0:00:02,
+662,Ликер crème de cassis,Ликер ягодный,212,0:00:02,
+663,Ликер crème de menthe,Ликер мятный,208,0:00:02,
+664,Ликер curacao blue,Ликер фруктовый,202,0:00:02,
+666,Ликер curasao,Ликер фруктовый,202,0:00:03,
+668,Ликер curasao orange,Ликер фруктовый,202,0:00:02,
+671,Ликер de kuyper blue curasao,Ликер фруктовый,202,0:00:02,
+672,Ликер de kuyper crème de bananes,Ликер фруктовый,202,0:00:02,
+673,Ликер de kuyper crème de cacao,Ликер ореховый,214,0:00:02,
+674,Ликер de kuyper crème de cassis,Ликер ягодный,212,0:00:02,
+675,Ликер de kuyper triple sec,Ликер фруктовый,202,0:00:02,
+676,Ликер de kuyper wild strawberry,Ликер ягодный,212,0:00:02,
+678,Ликер escorial,Ликер травяной и пряный,206,0:00:02,
+684,Ликер greme de menthe,Ликер мятный,208,0:00:38,
+687,Ликер jambosala,Ликер фруктовый,202,0:00:38,
+688,Ликер jaune chartreuså,Ликер травяной и пряный,206,0:00:02,
+690,Ликер kahlua,Ликер кофейный,204,0:00:02,
+691,Ликер kontiki,Ликер фруктовый,202,0:00:02,
+692,Ликер malibu,Ликер ореховый,214,0:00:02,
+695,Ликер mocca,Ликер кофейный,204,0:00:02,
+696,Ликер parfait amour,Ликер фруктовый,202,0:00:02,
+697,Ликер passion fruit,Ликер фруктовый,202,0:00:02,
+698,Ликер peach brandy,Ликер фруктовый,202,0:00:02,
+700,Ликер pirshou,Ликер фруктовый,202,0:00:02,
+701,Ликер pisang ambon,Ликер фруктовый,202,0:00:02,
+702,Ликер sherry cream,,,0:00:02,
+703,Ликер southern comfort,Ликер фруктовый,202,0:00:02,
+710,Ликер из киви,Ликер фруктовый,202,0:00:02,
+711,Ликер сreme de cacao,,,0:00:03,
+723,Лондонский сухой джин,Джин лондон сухой джин,137,0:00:02,
+726,Малиновый ликер,Ликер ягодный,212,0:00:02,
+728,Мандариновый ликер,Ликер фруктовый,202,0:00:03,
+739,Мятный ликер,Ликер мятный,208,0:00:02,
+753,Персиковый ликер,Ликер фруктовый,202,0:00:02,
+801,Темный ликер crème de cacao,,,0:00:02,
+811,Хлебная водка,Водка пшеничная,125,0:00:02,
+813,Шотландский виски,Виски односолодовый скотч,159,0:00:02,
+819,Яичный ликер,Ликер сливочный,1515,0:00:02,
+1068,Chilled ale,,,0:00:00,Ingredient Chilled ale has no category
+1069,Vodka (freezer-chilled),,,0:00:00,Ingredient Vodka (freezer-chilled) has no category
+1070,Chilled lager or ale,Beer pale ale,1420,0:00:00,
+1071,Lager or pale ale,Beer pale ale,1420,0:00:00,
+1072,Guinness (or other irish stout),Beer stout,1444,0:00:00,
+1073,Chilled champagne,,,0:00:00,Ingredient Chilled champagne has no category
+1074,Chilled beer,,,0:00:00,Ingredient Chilled beer has no category
+1075,Silver or gold rum,,,0:00:00,Ingredient Silver or gold rum has no category
+1076,"Sake (preferably momokawa
+diamond)",,,0:00:00,"Ingredient Sake (preferably momokawa
+diamond) has no category"
+1082,"High-quality gin (such as bombay
+sapphire)",,,0:00:00,"Ingredient High-quality gin (such as bombay
+sapphire) has no category"
+1083,Dry vermouth,,,0:00:00,Ingredient Dry vermouth has no category
+1084,Good-quality sake,,,0:00:00,Ingredient Good-quality sake has no category
+1086,Applejack (or calvados),Brandy calvados,1519,0:00:00,
+1088,1½ ounces,,,0:00:00,Ingredient 1½ ounces has no category
+1089,Calvados or apple brandy,Brandy calvados,1519,0:00:00,
+1091,Cointreau or triple sec,Liqueur fruit,1510,0:00:00,
+1092,Brandy (or cognac),,,0:00:00,Ingredient Brandy (or cognac) has no category
+1094,Cointreau (or triple sec),Liqueur fruit,1510,0:00:00,
+1095,Calvados (or other apple brandy),Brandy calvados,1519,0:00:00,
+1096,Kirsch (or other cherry brandy),,,0:00:00,Ingredient Kirsch (or other cherry brandy) has no category
+1097,Calvados (or applejack),Brandy calvados,1519,0:00:00,
+1098,Cognac (or brandy),,,0:00:00,Ingredient Cognac (or brandy) has no category
+1100,Crème de noyaux (or amaretto),Liqueur nut,224,0:00:00,
+1101,Dry sherry,,,0:00:00,Ingredient Dry sherry has no category
+1102,Chilled apple cider,,,0:00:00,Ingredient Chilled apple cider has no category
+1104,Chilled prosecco (or other dry sparkling wine),,,0:00:00,Ingredient Chilled prosecco (or other dry sparkling wine) has no category
+1106,Chilled guinnes,Beer stout,1444,0:00:00,
+1107,Vodka (or gin),,,0:00:00,Ingredient Vodka (or gin) has no category
+1109,Chilled prosecco (or champagne),,,0:00:00,Ingredient Chilled prosecco (or champagne) has no category
+1110,Absinthe (or pernod),Absinthe green,1526,0:00:00,
+1111,Chilled brut champagne,,,0:00:00,Ingredient Chilled brut champagne has no category
+1112,Chilled dry champagne,,,0:00:00,Ingredient Chilled dry champagne has no category
+1113,Mandarine napoléon liqueur (or triple sec),,,0:00:00,Ingredient Mandarine napoléon liqueur (or triple sec) has no category
+1115,Peychaud’s bitters,Liqueur herbal and spiced,1513,0:00:00,
+1116,Rosso (sweet) vermouth,,,0:00:00,Ingredient Rosso (sweet) vermouth has no category
+1117,Good-quality rum,,,0:00:00,Ingredient Good-quality rum has no category
+1118,Aged bacardi (8 years old),Rum golden (amber),1493,0:00:00,
+1119,Pimm’s no. 1 4 to,Liqueur herbal and spiced,1513,0:00:00,
+1120,Poire williams (or other pear brandy),,,0:00:00,Ingredient Poire williams (or other pear brandy) has no category
+1121,Mandarine napoléon (or other orange liqueur),,,0:00:00,Ingredient Mandarine napoléon (or other orange liqueur) has no category
+1122,Crème de mûre (blackberry liqueur),,,0:00:00,Ingredient Crème de mûre (blackberry liqueur) has no category
+1125,Chilled ginger beer,,,0:00:00,Ingredient Chilled ginger beer has no category
+1126,"Chilled ginger ale or ginger
+beer",,,0:00:00,"Ingredient Chilled ginger ale or ginger
+beer has no category"
+1127,Good-quality gin,,,0:00:00,Ingredient Good-quality gin has no category
+1129,Dry red wine,,,0:00:00,Ingredient Dry red wine has no category
+1130,"Black sambuca (such as opal
+nera)",Liqueur herbal and spiced,1513,0:00:00,
+1132,Extra-dry vermouth,,,0:00:00,Ingredient Extra-dry vermouth has no category
+1133,Chilled gin,,,0:00:00,Ingredient Chilled gin has no category
+1134,Noilly pratt dry vermouth,,,0:00:00,Ingredient Noilly pratt dry vermouth has no category
+1136,Noilly prat dry vermouth,,,0:00:00,Ingredient Noilly prat dry vermouth has no category
+1137,"Angostura or peychaud’s
+bitters",Liqueur herbal and spiced,1513,0:00:00,
+1140,Chilled white crème de cacao,Liqueur nut,224,0:00:00,
+1141,Tia maria (or other co,Liqueur coffee,1511,0:00:00,
+1142,Kahlúa or tia maria,Liqueur coffee,1511,0:00:00,
+1143,Kahlúa (or other co,Liqueur coffee,1511,0:00:00,
+1144,Pimm’s no. 1,Liqueur herbal and spiced,1513,0:00:00,
+1145,Bacardi light or gold rum,,,0:00:00,Ingredient Bacardi light or gold rum has no category
+1146,Demerera or spiced rum,Rum dark (black),388,0:00:00,
+1147,Good-quality light rum,"Rum white (silver, light)",1492,0:00:00,
+1148,Cachaça (or light rum),"Rum white (silver, light)",1492,0:00:00,
+1149,Gold or dark rum,Rum golden (amber),1493,0:00:00,
+1159,"Chilled ginger beer (or
+ginger ale)",,,0:00:00,"Ingredient Chilled ginger beer (or
+ginger ale) has no category"
+1161,"Stolichnaya lemon vodka (or
+other lemon-",Vodka citrus,140,0:00:00,
+1162,"Myers’s dark or other dark
+jamaican rum",Rum dark (black),388,0:00:00,
+1163,"Martinique rhum vieux or other
+aged rum",Rum dark (black),388,0:00:00,
+1166,"Monin passion fruit syrup (or
+other passion fruit syrup)",,,0:00:00,"Ingredient Monin passion fruit syrup (or
+other passion fruit syrup) has no category"
+1169,Gold or jamaican rum,Rum golden (amber),1493,0:00:00,
+1171,Cachaça or light rum,"Rum white (silver, light)",1492,0:00:00,
+1174,"99 bananas liqueur (or
+crème de banane)",Liqueur fruit,1510,0:00:00,
+1175,"Vanilla-infused rum (see page
+247)","Rum white (silver, light)",1492,0:00:00,
+1176,Light or gold rum,"Rum white (silver, light)",1492,0:00:00,
+1177,"Spiced rum (such as captain
+morgan)",Rum golden (amber),1493,0:00:00,
+1178,"Chocolate liqueur (such as
+godiva)",,,0:00:00,"Ingredient Chocolate liqueur (such as
+godiva) has no category"
+1179,Malibu rum (or other coconut-,Liqueur nut,224,0:00:00,
+1180,"Pineapple-infused rum (see
+page 247)",Rum dark (black),388,0:00:00,
+1181,"Pernod (or other absinthe
+substitute)",Absinthe green,1526,0:00:00,
+1182,Gold (añejo) rum,Rum golden (amber),1493,0:00:00,
+1183,"Pepper-infused tequila (see
+page 71)",,,0:00:00,"Ingredient Pepper-infused tequila (see
+page 71) has no category"
+1184,Triple sec or other orange liqueur,Liqueur fruit,1510,0:00:00,
+1190,Kahlúa (or tia maria),Liqueur coffee,1511,0:00:00,
+1191,"Vanilla-infused tequila (see
+page 71)",,,0:00:00,"Ingredient Vanilla-infused tequila (see
+page 71) has no category"
+1192,"Citrónge (or other orange
+liqueur)",Liqueur fruit,1510,0:00:00,
+1194,Good-quality reposado tequila,,,0:00:00,Ingredient Good-quality reposado tequila has no category
+1198,Triple sec or cointreau,Liqueur fruit,1510,0:00:00,
+1201,Good-quality silver tequila,"Rum white (silver, light)",1492,0:00:00,
+1202,Vodka (regular or apple,Vodka apple,1475,0:00:00,
+1205,Vodka (or pepper-flavored vodka),Vodka spiced,142,0:00:00,
+1208,Vodka (or vanilla-flavored vodka),Vodka spiced,142,0:00:00,
+1209,"Godiva chocolate liqueur (or
+dark crème de cacao)",,,0:00:00,"Ingredient Godiva chocolate liqueur (or
+dark crème de cacao) has no category"
+1213,Grand marnier (or cointreau),Liqueur fruit,1510,0:00:00,
+1214,Midori or other melon liqueur,Liqueur fruit,1510,0:00:00,
+1215,Ginger beer (or ginger ale),,,0:00:00,Ingredient Ginger beer (or ginger ale) has no category
+1217,"Ginger-infused vodka (see page
+70)",Vodka spiced,142,0:00:00,
+1218,Chilled premium sake,,,0:00:00,Ingredient Chilled premium sake has no category
+1220,Dry sake,,,0:00:00,Ingredient Dry sake has no category
+1221,Lemon-flavored vodka),Vodka citrus,140,0:00:00,
+1222,Midori (or other melon-flavored liquer),Liqueur fruit,1510,0:00:00,
+1223,"Peppermint schnapps (or white
+crème de menthe)",Liqueur mint,1514,0:00:00,
+1224,Rye (or blended whiskey),,,0:00:00,Ingredient Rye (or blended whiskey) has no category
+1225,Absinthe substitute (pernod or anisette),Liqueur herbal and spiced,1513,0:00:00,
+1226,Bourbon (or blended whiskey),,,0:00:00,Ingredient Bourbon (or blended whiskey) has no category
+1228,"Cointreau (or maraschino
+liqueur)",Liqueur fruit,1510,0:00:00,
+1230,Scotch or bourbon,,,0:00:00,Ingredient Scotch or bourbon has no category
+1231,"Bourbon (or blended canadian
+whisky)",,,0:00:00,"Ingredient Bourbon (or blended canadian
+whisky) has no category"
+1233,"Rye, bourbon, or blended
+canadian whisky",,,0:00:00,"Ingredient Rye, bourbon, or blended
+canadian whisky has no category"
+1234,Bourbon (or rye),,,0:00:00,Ingredient Bourbon (or rye) has no category
+1235,Pernod (or herbsaint),Liqueur herbal and spiced,1513,0:00:00,
+1236,Cognac (or bourbon or rye),,,0:00:00,Ingredient Cognac (or bourbon or rye) has no category
+1237,Peychaud’s or angostura bitters,Liqueur herbal and spiced,1513,0:00:00,
+1238,Herbsaint (or pernod or ricard),Liqueur herbal and spiced,1513,0:00:00,
+1239,Seagram’s 7 crown whiskey,,,0:00:00,Ingredient Seagram’s 7 crown whiskey has no category
+1240,"Blended canadian whisky or
+bourbon",,,0:00:00,"Ingredient Blended canadian whisky or
+bourbon has no category"
+1242,Blended or other whiskey,,,0:00:00,Ingredient Blended or other whiskey has no category
+1243,Chilled white wine,,,0:00:00,Ingredient Chilled white wine has no category
+1244,"Chilled light, dry red wine",,,0:00:00,"Ingredient Chilled light, dry red wine has no category"
+1245,"Bottle dry red wine, chilled",,,0:00:00,"Ingredient Bottle dry red wine, chilled has no category"
+1247,Chilled dry white wine,,,0:00:00,Ingredient Chilled dry white wine has no category
+1248,"Chilled dry white wine (such as
+chardonnay, pinot gris, or sauvignon
+blanc)",,,0:00:00,"Ingredient Chilled dry white wine (such as
+chardonnay, pinot gris, or sauvignon
+blanc) has no category"
+1249,Chilled dry red wine,,,0:00:00,Ingredient Chilled dry red wine has no category
+1251,Peychaud’s or orange bitters,Liqueur herbal and spiced,1513,0:00:00,
+1252,Dry (fino) sherry,,,0:00:00,Ingredient Dry (fino) sherry has no category
+1254,Dry rosé wine,,,0:00:00,Ingredient Dry rosé wine has no category
+1255,Pale dry sherry,,,0:00:00,Ingredient Pale dry sherry has no category
+1256,Bottles dry red wine,,,0:00:00,Ingredient Bottles dry red wine has no category
+1263,Dry white wine,,,0:00:00,Ingredient Dry white wine has no category
+1264,Apricot liqueur (or brandy),Liqueur fruit,1510,0:00:00,
+1265,Cointreau (or curaçao),Liqueur fruit,1510,0:00:00,
+1268,"Chilled muscat white
+wine",,,0:00:00,"Ingredient Chilled muscat white
+wine has no category"
+1269,Chilled light rum,"Rum white (silver, light)",1492,0:00:00,
+1272,Chilled dark rum,Rum dark (black),388,0:00:00,
+1273,Chilled brandy,,,0:00:00,Ingredient Chilled brandy has no category
+1274,"Chilled dry red wine
+(preferably a rioja)",,,0:00:00,"Ingredient Chilled dry red wine
+(preferably a rioja) has no category"
+1282,"Chilled champagne or other
+sparkling wine",,,0:00:00,"Ingredient Chilled champagne or other
+sparkling wine has no category"
+1283,Freezer-chilled vodka,,,0:00:00,Ingredient Freezer-chilled vodka has no category
+1284,Chilled vodka,,,0:00:00,Ingredient Chilled vodka has no category
+1286,Freezer-chilled citron vodka,Vodka citrus,140,0:00:00,
+1289,"Godiva chocolate liqueur (or
+crème de cacao)",,,0:00:00,"Ingredient Godiva chocolate liqueur (or
+crème de cacao) has no category"
+1290,"Orangina (or other sparkling
+orange beverage)",,,0:00:00,"Ingredient Orangina (or other sparkling
+orange beverage) has no category"
+1293,"Triple sec (or other orange
+liqueur)",Liqueur fruit,1510,0:00:00,
+1297,"Chilled jamaican ginger beer
+or ginger ale",,,0:00:00,"Ingredient Chilled jamaican ginger beer
+or ginger ale has no category"
+1300,"Chilled ginger beer or ginger
+ale",,,0:00:00,"Ingredient Chilled ginger beer or ginger
+ale has no category"
+1306,Angostura or other bitters,Liqueur herbal and spiced,1513,0:00:00,
+1307,Chilled guinness,Beer stout,1444,0:00:00,
+1308,Cold beef broth or bouillon,,,0:00:00,Ingredient Cold beef broth or bouillon has no category
+1309,Pernod (or other anise-flavored liqueur),Liqueur herbal and spiced,1513,0:00:00,
+1310,Bourbon or rye,,,0:00:00,Ingredient Bourbon or rye has no category
+1311,Ликер биттер angostura,Ликер травяной и пряный,1512,0:00:00,
+1312,Ликер анисовый anisette,Ликер травяной и пряный,1512,0:00:00,
+1313,Ликер вишневый maraschino,Ликер ягодный,221,0:00:00,
+1314,Ликер цитрусовый cointreau,Ликер фруктовый,1509,0:00:00,
+1315,Ликер цитрусовый  curacao triple sec,Ликер фруктовый,1509,0:00:00,
+1316,Ликер цитрусовый curacao triple sec,Ликер фруктовый,1509,0:00:00,
+1317,Ликер мятный creme de menthe,Ликер мятный,217,0:00:00,
+1318,Темный ром,Ликер фруктовый,1509,0:00:00,
+1319,Ликер гранатовый grenadine,Ликер фруктовый,1509,0:00:00,
+1320,"Ликер green
+ликер мятный green  chartreuse",Ликер мятный,217,0:00:00,
+1321,Ликер фруктовый apricot brandy,Ликер фруктовый,1509,0:00:00,
+1322,Ликер апельсиновый,Ликер фруктовый,1509,0:00:00,
+1323,Ликер  grenadine,Ликер фруктовый,1509,0:00:00,
+1324,Ликер медовый drambuie,Ликер медовый,1517,0:00:00,
+1326,Ликер горький amaretto,Ликер ореховый,1516,0:00:00,
+1327,Ликер французский benedictine d.o.m.,Ликер травяной и пряный,1512,0:00:00,
+1328,"Ликер французский benedictine
+d.o.m",Ликер травяной и пряный,1512,0:00:00,
+1329,Ликер вишневый grenadine,Ликер ягодный,221,0:00:00,
+1330,Ликер ванильный galliano,Ликер травяной и пряный,1512,0:00:00,
+1331,Ликер кофейный amaretto,Ликер ореховый,1516,0:00:00,
+1332,Ликер вишневый,Ликер ягодный,221,0:00:00,
+1333,Ликер вишневый cherry brandy,Ликер ягодный,221,0:00:00,
+1334,Ликер абрикосовый apricot brandy,Ликер фруктовый,1509,0:00:00,
+1335,"Ликер пряный southern
+comfort",Ликер травяной и пряный,1512,0:00:00,
+1337,Ликер банановый,Ликер фруктовый,1509,0:00:00,
+1338,Ликер травяной green ликер мятный green  chartreuse,Ликер мятный,217,0:00:00,
+1339,"Ликер southern
+comfort",Ликер фруктовый,1509,0:00:00,
+1340,Ликер campari bitter,Ликер травяной и пряный,1512,0:00:00,
+1341,Ликер curacao triplesec,Ликер фруктовый,1509,0:00:00,
+1342,"Ликер southern
+comfor",Ликер фруктовый,1509,0:00:00,
+1343,"Ликер травяной benedictine
+d.o.m",Ликер травяной и пряный,1512,0:00:00,
+1344,Ликер цитрусовый сurasao,Ликер фруктовый,1509,0:00:00,
+1345,Ликер цитрусовые triple sec,Ликер фруктовый,1509,0:00:00,
+1346,"Ликер creme de
+cassis",Ликер ягодный,221,0:00:00,
+1347,"Ликер greme
+de menthe",Ликер мятный,217,0:00:00,
+1348,Ликер коньячный grand marnier,Ликер фруктовый,1509,0:00:00,
+1349,Ликер шоколданый  creme de cacao,,,0:00:00,Ingredient Ликер шоколданый  creme de cacao has no category
+1350,Ликер цитрусовый curasao blue,Ликер фруктовый,1509,0:00:00,
+1351,Ликер свекольный  curasao triple sec,Ликер фруктовый,1509,0:00:00,
+1353,Ликер шоколадный  creme de cacao,,,0:00:00,Ingredient Ликер шоколадный  creme de cacao has no category
+1354,Ликер цитрусовый curasao вlue,Ликер фруктовый,1509,0:00:00,
+1355,Ликер pisang ambon;,Ликер фруктовый,1509,0:00:00,
+1356,Ликер цитрусовый сurasao triple sec,Ликер фруктовый,1509,0:00:00,
+1357,"Водка finlandia
+redberry",Водка ягодная,1477,0:00:00,
+1358,"Ликер сurasao triple
+sec",Ликер фруктовый,1509,0:00:00,
+1359,Ликер фруктовый peach schnapps,Ликер фруктовый,1509,0:00:00,
+1360,"Ликер пряный sîuthern
+comfort",Ликер травяной и пряный,1512,0:00:00,
+1361,Ликер дыневый midori,Ликер фруктовый,1509,0:00:00,
+1362,"Ликер jaune
+chartreuså",,,0:00:00,"Ingredient Ликер jaune
+chartreuså has no category"
+1363,Можжевеловая настойка  genever,Ликер травяной и пряный,1512,0:00:00,
+1364,"Ликер creme de
+banane",,,0:00:00,"Ingredient Ликер creme de
+banane has no category"
+1365,"Ликер мятный creme
+de menthe",,,0:00:00,"Ingredient Ликер мятный creme
+de menthe has no category"
+1366,"Ликер  цитрусовый сurasao triple
+sec",,,0:00:00,"Ingredient Ликер  цитрусовый сurasao triple
+sec has no category"
+1367,"Ликер benedictine
+d.o.m",,,0:00:00,"Ingredient Ликер benedictine
+d.o.m has no category"
+1368,"Ликер creme
+de menthe",,,0:00:00,"Ingredient Ликер creme
+de menthe has no category"
+1369,Желтый ликер ликер мятный green  chartreuse,,,0:00:00,Ingredient Желтый ликер ликер мятный green  chartreuse has no category
+1370,Светлый или темный ром,,,0:00:00,Ingredient Светлый или темный ром has no category
+1371,Ликер коньячный gran marnier,,,0:00:00,Ingredient Ликер коньячный gran marnier has no category
+1373,Текила белая,,,0:00:00,Ingredient Текила белая has no category
+1375,Текила золотая sierra,,,0:00:00,Ingredient Текила золотая sierra has no category
+1376,Ликерликер свекольный  curasao triple sec,,,0:00:00,Ingredient Ликерликер свекольный  curasao triple sec has no category
+1377,Апельсиновый ликер  de kuyper triple sec,,,0:00:00,Ingredient Апельсиновый ликер  de kuyper triple sec has no category
+1378,Ликер апельсиновый de kuyper triple sec,,,0:00:00,Ingredient Ликер апельсиновый de kuyper triple sec has no category
+1379,Ликер зеленый crème de menthe,,,0:00:00,Ingredient Ликер зеленый crème de menthe has no category
+1380,Ликер мандариновый,,,0:00:00,Ingredient Ликер мандариновый has no category
+1381,Текила серебряная sierra,,,0:00:00,Ingredient Текила серебряная sierra has no category
+1382,Ликер малиновый,,,0:00:00,Ingredient Ликер малиновый has no category
+1383,Текила серебряная sierra silver,,,0:00:00,Ingredient Текила серебряная sierra silver has no category
+1384,Ликер персиковый,,,0:00:00,Ingredient Ликер персиковый has no category
+1385,Водка грушевая williamsbirne,,,0:00:00,Ingredient Водка грушевая williamsbirne has no category
+1386,Ликер зеленый банановый,,,0:00:00,Ingredient Ликер зеленый банановый has no category
+1387,Ликер  кофейный amaretto,,,0:00:00,Ingredient Ликер  кофейный amaretto has no category
+1388,Ликер светлый crème de cacao,,,0:00:00,Ingredient Ликер светлый crème de cacao has no category
+1390,Ликер яблочный,Ликер фруктовый,1509,0:00:00,
+1391,Ликер темный crème de cacao,,,0:00:00,Ingredient Ликер темный crème de cacao has no category
+1392,Ликер  вишневый grenadine,Ликер ягодный,221,0:00:00,
+1393,Ликер зеленый мятный,Ликер мятный,217,0:00:00,
+1395,Ликер травяной benedictine d.o.m.,Ликер травяной и пряный,1512,0:00:00,
+1396,Вермут сухой,Вино белое сухое,1401,0:00:00,
+1397,Ликер  вишневый maraschino,Ликер ягодный,221,0:00:00,
+4,99.Bananas Liqueur,Liqueur fruit,1510,0:00:00,
+5,Absinthe,Absinthe green,1526,0:00:00,
+6,Absinthe Substitute,Absinthe green,1526,0:00:00,
+7,Aged Bacardi,Rum golden (amber),1493,0:00:00,
+10,"Alizé De France Passion Fruit
+Liqueur",Liqueur fruit,1510,0:00:00,
+15,Angostura Bitter,Liqueur herbal and spiced,1513,0:00:00,
+31,Bacardi Light,"Rum white (silver, light)",1492,0:00:00,
+43,Black Sambuca,Liqueur herbal and spiced,1513,0:00:00,
+70,Cachaça Rum,"Rum white (silver, light)",1492,0:00:00,
+100,Citrónge,Liqueur fruit,1510,0:00:00,
+131,Crème De Mûre,Liqueur berry,428,0:00:00,
+142,Curasao Triple Sec,Ликер фруктовый,1509,0:00:00,
+174,Freezer- Citron Vodka,Vodka citrus,140,0:00:00,
+218,Gin,Vodka herbal,1481,0:00:00,
+224,Ginger-Infused Vodka,Vodka spiced,142,0:00:00,
+259,Guinnes,Beer stout,1444,0:00:00,
+260,Guinness,Beer stout,1444,0:00:00,
+268,Herbsaint,Liqueur herbal and spiced,1513,0:00:00,
+330,Martinique Rhum Vieux,Rum dark (black),388,0:00:00,
+344,Myers’S Dark,Rum dark (black),388,0:00:00,
+362,Orangina,Liqueur fruit,1510,0:00:00,
+392,Peychaud’S Bitter,Liqueur herbal and spiced,1513,0:00:00,
+403,Pineapple-Infused Rum,Rum dark (black),388,0:00:00,
+453,Silver,Liqueur honey,1518,0:00:00,
+459,Slice Of Candied Ginger,Vodka spiced,142,0:00:00,
+477,Stolichnaya Lemon Vodka,Vodka citrus,140,0:00:00,
+509,Triple Sec Orange Liqueur,Liqueur fruit,1510,0:00:00,
+516,Vanilla-Infused Rum,"Rum white (silver, light)",1492,0:00:00,
+550,Апельсиновый Ликер De Kuyper Triple Sec,Ликер фруктовый,1509,0:00:00,
+557,Бейлис Тирамису,Ликер сливочный,1515,0:00:00,
+558,Белая Текила,Текила cеребряная или белая,415,0:00:00,
+579,Вино Dubonnet Красное,Вино красное сладкое,15,0:00:00,
+580,Вино Красное Полусухое,Вино красное полусухое,1400,0:00:00,
+593,Водка Aquavit,Водка пряная,141,0:00:00,
+594,Водка Finlandiaredberry,Водка ягодная,1477,0:00:00,
+600,Грушевая Водка Williamsbirne,Водка фруктовая,1482,0:00:00,
+606,Желтый Ликер Chartreuse,Ликер травяной и пряный,1512,0:00:00,
+607,Зеленый Банановый Ликер,Ликер фруктовый,1509,0:00:00,
+610,Зеленый Мятный Ликер,Ликер мятный,217,0:00:00,
+611,Золотая Текила,Текила золотая,1374,0:00:00,
+612,Золотая Текила Sierra,Текила золотая,1374,0:00:00,
+618,Калуа,Ликер кофейный,213,0:00:00,
+640,Ликер Amaretto,Ликер ореховый,1516,0:00:00,
+641,Ликер Angostura,Ликер травяной и пряный,1512,0:00:00,
+642,Ликер Anisette,Ликер травяной и пряный,1512,0:00:00,
+649,Ликер Benedictine Dom,Ликер травяной и пряный,1512,0:00:00,
+650,Ликер Cherry Brandy,Ликер ягодный,221,0:00:00,
+652,Ликер Cointreau,Ликер фруктовый,1509,0:00:00,
+656,Ликер Creme Debanane,Ликер фруктовый,1509,0:00:00,
+657,Ликер Creme Decassis,Ликер ягодный,221,0:00:00,
+658,Ликер Cremede Menthe,Ликер мятный,217,0:00:00,
+665,Ликер Curacao Triple Sec,Ликер фруктовый,1509,0:00:00,
+667,Ликер Curasao Blue,Ликер фруктовый,1509,0:00:00,
+669,Ликер Curasao Triple Sec,Ликер фруктовый,1509,0:00:00,
+670,Ликер Curasao Вlue,Ликер фруктовый,1509,0:00:00,
+677,Ликер Drambuie,Ликер медовый,1517,0:00:00,
+679,Ликер Galliano,Ликер травяной и пряный,1512,0:00:00,
+680,Ликер Gran Marnier,Ликер фруктовый,1509,0:00:00,
+681,Ликер Grand Marnier,Ликер фруктовый,1509,0:00:00,
+682,Ликер Green Chartreuse,Ликер травяной и пряный,1512,0:00:00,
+683,Ликер Greenchartreuse,Ликер травяной и пряный,1512,0:00:00,
+685,Ликер Gremede Menthe,Ликер мятный,217,0:00:00,
+686,Ликер Grenadine,Ликер фруктовый,1509,0:00:00,
+689,Ликер Jaunechartreuså,Ликер травяной и пряный,1512,0:00:00,
+693,Ликер Maraschino,Ликер фруктовый,1509,0:00:00,
+694,Ликер Midori,Ликер фруктовый,1509,0:00:00,
+699,Ликер Peach Schnapps,Ликер фруктовый,1509,0:00:00,
+704,Ликер Southerncomfor,Ликер фруктовый,1509,0:00:00,
+705,Ликер Southerncomfort,Ликер фруктовый,1509,0:00:00,
+706,Ликер Sîutherncomfort,Ликер фруктовый,1509,0:00:00,
+707,Ликер Triple Sec,Ликер фруктовый,1509,0:00:00,
+708,Ликер Yellowchartreuse,Ликер травяной и пряный,1512,0:00:00,
+709,Ликер Личи,Ликер фруктовый,1509,0:00:00,
+712,Ликер Сurasao,Ликер фруктовый,1509,0:00:00,
+713,Ликер Сurasao Triple Sec,Ликер фруктовый,1509,0:00:00,
+714,Ликер Сurasao Triplesec,Ликер фруктовый,1509,0:00:00,
+766,Серебряная Текила Sierra,Текила cеребряная или белая,415,0:00:00,
+800,Текила Sierra Silver,Текила cеребряная или белая,415,0:00:00,
+815,Яблочный Ликер,Ликер фруктовый,1509,0:00:00,
+1113,"Mandarine Napoléon Liqueur (Or
+Triple Sec)",Liqueur fruit,1510,0:00:00,
+1121,"Mandarine Napoléon (Or Other
+Orange Liqueur)",Liqueur fruit,1510,0:00:00,
+1122,"Crème De Mûre (Blackberry
+Liqueur)",Liqueur berry,428,0:00:00,

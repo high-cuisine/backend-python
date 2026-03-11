@@ -1,0 +1,631 @@
+ingredient_id,ingredient_name,language,stage1_status,stage2_status,last_updated,notes
+1392,Ликер  вишневый grenadine,RUS,completed,pending,2025-08-20T19:20:39.214861,
+1391,Ликер темный crème de cacao,RUS,completed,pending,2025-08-20T19:20:39.368915,
+1390,Ликер яблочный,RUS,completed,pending,2025-08-20T19:20:40.121422,
+1389,Пахта,RUS,completed,pending,2025-08-20T19:20:41.363100,
+1393,Ликер зеленый мятный,RUS,completed,pending,2025-08-20T19:20:42.064081,
+1389,Пахта,RUS,pending,skipped,2025-08-20T19:20:43.075045,No subcategories available
+1390,Ликер яблочный,RUS,pending,completed,2025-08-20T19:20:47.162699,
+1393,Ликер зеленый мятный,RUS,pending,completed,2025-08-20T19:20:49.545225,
+1391,Ликер темный crème de cacao,RUS,pending,completed,2025-08-20T19:20:49.918549,
+1392,Ликер  вишневый grenadine,RUS,pending,completed,2025-08-20T19:20:50.694028,
+1395,Ликер травяной benedictine d.o.m.,RUS,completed,pending,2025-08-20T19:20:56.828190,
+1397,Ликер  вишневый maraschino,RUS,completed,pending,2025-08-20T19:20:56.847287,
+1068,Chilled ale,ENG,completed,pending,2025-08-20T19:20:56.860577,
+1396,Вермут сухой,RUS,completed,pending,2025-08-20T19:20:58.187453,
+1069,Vodka (freezer-chilled),ENG,completed,pending,2025-08-20T19:21:01.333355,
+1069,Vodka (freezer-chilled),ENG,pending,completed,2025-08-20T19:21:05.637459,
+1395,Ликер травяной benedictine d.o.m.,RUS,pending,completed,2025-08-20T19:21:06.077309,
+1397,Ликер  вишневый maraschino,RUS,pending,completed,2025-08-20T19:21:06.159723,
+1068,Chilled ale,ENG,pending,completed,2025-08-20T19:21:08.106361,
+1396,Вермут сухой,RUS,pending,completed,2025-08-20T19:21:09.311832,
+1072,Guinness (or other irish stout),ENG,completed,pending,2025-08-20T19:21:15.233521,
+1071,Lager or pale ale,ENG,completed,pending,2025-08-20T19:21:15.888611,
+1073,Chilled champagne,ENG,completed,pending,2025-08-20T19:21:15.947064,
+1070,Chilled lager or ale,ENG,completed,pending,2025-08-20T19:21:16.568438,
+1074,Chilled beer,ENG,completed,pending,2025-08-20T19:21:17.614119,
+1073,Chilled champagne,ENG,pending,skipped,2025-08-20T19:21:18.621156,No subcategories available
+1074,Chilled beer,ENG,pending,completed,2025-08-20T19:21:22.333511,
+1071,Lager or pale ale,ENG,pending,completed,2025-08-20T19:21:22.811635,
+1072,Guinness (or other irish stout),ENG,pending,completed,2025-08-20T19:21:24.036292,
+1070,Chilled lager or ale,ENG,pending,completed,2025-08-20T19:21:25.594491,
+1076,"Sake (preferably momokawa
+diamond)",ENG,completed,pending,2025-08-20T19:21:31.590083,
+1078,"Puréed white peaches (or regular
+peaches)",ENG,completed,pending,2025-08-20T19:21:31.608431,
+1077,"Fresh mint leaves (preferably
+japanese shiso mint)",ENG,completed,pending,2025-08-20T19:21:33.895974,
+1079,Slices fresh ginger,ENG,completed,pending,2025-08-20T19:21:33.915367,
+1075,Silver or gold rum,ENG,completed,pending,2025-08-20T19:21:34.095698,
+1077,"Fresh mint leaves (preferably
+japanese shiso mint)",ENG,pending,skipped,2025-08-20T19:21:35.105594,No subcategories available
+1078,"Puréed white peaches (or regular
+peaches)",ENG,pending,skipped,2025-08-20T19:21:35.105860,No subcategories available
+1076,"Sake (preferably momokawa
+diamond)",ENG,pending,skipped,2025-08-20T19:21:35.106095,No subcategories available
+1079,Slices fresh ginger,ENG,pending,skipped,2025-08-20T19:21:35.103394,No subcategories available
+1075,Silver or gold rum,ENG,pending,completed,2025-08-20T19:21:38.714421,
+1083,Dry vermouth,ENG,completed,pending,2025-08-20T19:21:44.545242,
+1084,Good-quality sake,ENG,completed,pending,2025-08-20T19:21:45.344607,
+1080,E fresh lime juice,ENG,completed,pending,2025-08-20T19:21:45.484891,
+1082,"High-quality gin (such as bombay
+sapphire)",ENG,completed,pending,2025-08-20T19:21:45.742961,
+1081,Pineappleb,ENG,completed,pending,2025-08-20T19:21:46.499354,
+1084,Good-quality sake,ENG,pending,skipped,2025-08-20T19:21:47.509013,No subcategories available
+1083,Dry vermouth,ENG,pending,skipped,2025-08-20T19:21:47.508896,No subcategories available
+1081,Pineappleb,ENG,pending,skipped,2025-08-20T19:21:47.508203,No subcategories available
+1080,E fresh lime juice,ENG,pending,skipped,2025-08-20T19:21:47.509609,No subcategories available
+1082,"High-quality gin (such as bombay
+sapphire)",ENG,pending,skipped,2025-08-20T19:21:47.508659,No subcategories available
+1087,Chilled club soda,ENG,completed,pending,2025-08-20T19:21:52.635956,
+1089,Calvados or apple brandy,ENG,completed,pending,2025-08-20T19:21:52.726715,
+1085,"Cucumber (preferably
+english cucumber)",ENG,completed,pending,2025-08-20T19:21:53.319065,
+1086,Applejack (or calvados),ENG,completed,pending,2025-08-20T19:21:53.749875,
+1088,1½ ounces,ENG,completed,pending,2025-08-20T19:21:54.209861,
+1085,"Cucumber (preferably
+english cucumber)",ENG,pending,skipped,2025-08-20T19:21:55.219661,No subcategories available
+1087,Chilled club soda,ENG,pending,skipped,2025-08-20T19:21:55.219837,No subcategories available
+1088,1½ ounces,ENG,pending,completed,2025-08-20T19:21:59.396195,
+1089,Calvados or apple brandy,ENG,pending,completed,2025-08-20T19:21:59.396697,
+1086,Applejack (or calvados),ENG,pending,completed,2025-08-20T19:21:59.925966,
+1090,Chilled ginger ale,ENG,completed,pending,2025-08-20T19:22:05.415569,
+1091,Cointreau or triple sec,ENG,completed,pending,2025-08-20T19:22:05.873548,
+1094,Cointreau (or triple sec),ENG,completed,pending,2025-08-20T19:22:05.885121,
+1093,Fresh lemon (or lime) juice,ENG,completed,pending,2025-08-20T19:22:06.004568,
+1092,Brandy (or cognac),ENG,completed,pending,2025-08-20T19:22:07.483541,
+1093,Fresh lemon (or lime) juice,ENG,pending,skipped,2025-08-20T19:22:08.491229,No subcategories available
+1090,Chilled ginger ale,ENG,pending,skipped,2025-08-20T19:22:08.491763,No subcategories available
+1091,Cointreau or triple sec,ENG,pending,completed,2025-08-20T19:22:11.947368,
+1092,Brandy (or cognac),ENG,pending,completed,2025-08-20T19:22:11.972131,
+1094,Cointreau (or triple sec),ENG,pending,completed,2025-08-20T19:22:12.932917,
+1095,Calvados (or other apple brandy),ENG,completed,pending,2025-08-20T19:22:18.443194,
+1097,Calvados (or applejack),ENG,completed,pending,2025-08-20T19:22:19.045134,
+1098,Cognac (or brandy),ENG,completed,pending,2025-08-20T19:22:19.411500,
+1096,Kirsch (or other cherry brandy),ENG,completed,pending,2025-08-20T19:22:20.632628,
+1099,Fresh lime  juice,ENG,completed,pending,2025-08-20T19:22:20.824921,
+1099,Fresh lime  juice,ENG,pending,skipped,2025-08-20T19:22:21.840321,No subcategories available
+1098,Cognac (or brandy),ENG,pending,completed,2025-08-20T19:22:25.451661,
+1097,Calvados (or applejack),ENG,pending,completed,2025-08-20T19:22:26.073427,
+1095,Calvados (or other apple brandy),ENG,pending,completed,2025-08-20T19:22:27.258360,
+1096,Kirsch (or other cherry brandy),ENG,pending,completed,2025-08-20T19:22:28.612828,
+1103,Egg white (optional,ENG,completed,pending,2025-08-20T19:22:34.222781,
+1102,Chilled apple cider,ENG,completed,pending,2025-08-20T19:22:34.815379,
+1104,"Chilled prosecco (or other
+dry sparkling wine)",ENG,completed,pending,2025-08-20T19:22:35.247364,
+1100,Crème de noyaux (or amaretto),ENG,completed,pending,2025-08-20T19:22:35.879606,
+1101,Dry sherry,ENG,completed,pending,2025-08-20T19:22:36.870097,
+1104,"Chilled prosecco (or other
+dry sparkling wine)",ENG,pending,skipped,2025-08-20T19:22:37.878519,No subcategories available
+1101,Dry sherry,ENG,pending,skipped,2025-08-20T19:22:37.876804,No subcategories available
+1103,Egg white (optional,ENG,pending,skipped,2025-08-20T19:22:37.879441,No subcategories available
+1102,Chilled apple cider,ENG,pending,completed,2025-08-20T19:22:42.686864,
+1100,Crème de noyaux (or amaretto),ENG,pending,completed,2025-08-20T19:22:43.275494,
+1108,Small fresh mint leaves,ENG,completed,pending,2025-08-20T19:22:48.698398,
+1106,Chilled guinnes,ENG,completed,pending,2025-08-20T19:22:49.066246,
+1109,"Chilled prosecco (or
+champagne)",ENG,completed,pending,2025-08-20T19:22:49.631450,
+1107,Vodka (or gin),ENG,completed,pending,2025-08-20T19:22:50.615131,
+1105,White peach purée (or peach nectar),ENG,completed,pending,2025-08-20T19:22:51.740940,
+1109,"Chilled prosecco (or
+champagne)",ENG,pending,skipped,2025-08-20T19:22:52.753333,No subcategories available
+1108,Small fresh mint leaves,ENG,pending,skipped,2025-08-20T19:22:52.752426,No subcategories available
+1105,White peach purée (or peach nectar),ENG,pending,skipped,2025-08-20T19:22:52.752611,No subcategories available
+1106,Chilled guinnes,ENG,pending,completed,2025-08-20T19:22:56.225127,
+1107,Vodka (or gin),ENG,pending,completed,2025-08-20T19:22:57.248173,
+1113,"Mandarine napoléon liqueur (or
+triple sec)",ENG,completed,pending,2025-08-20T19:23:03.086195,
+1114,"Fresh strawberry, hulled",ENG,completed,pending,2025-08-20T19:23:03.614492,
+1111,Chilled brut champagne,ENG,completed,pending,2025-08-20T19:23:03.995576,
+1110,Absinthe (or pernod),ENG,completed,pending,2025-08-20T19:23:04.185500,
+1112,Chilled dry champagne,ENG,completed,pending,2025-08-20T19:23:04.582929,
+1112,Chilled dry champagne,ENG,pending,skipped,2025-08-20T19:23:05.594008,No subcategories available
+1111,Chilled brut champagne,ENG,pending,skipped,2025-08-20T19:23:05.593734,No subcategories available
+1114,"Fresh strawberry, hulled",ENG,pending,skipped,2025-08-20T19:23:05.598796,No subcategories available
+1110,Absinthe (or pernod),ENG,pending,completed,2025-08-20T19:23:09.956169,
+1113,"Mandarine napoléon liqueur (or
+triple sec)",ENG,pending,completed,2025-08-20T19:23:10.474137,
+1117,Good-quality rum,ENG,completed,pending,2025-08-20T19:23:16.397000,
+1116,Rosso (sweet) vermouth,ENG,completed,pending,2025-08-20T19:23:16.972433,
+1119,Pimm’s no. 1 4 to,ENG,completed,pending,2025-08-20T19:23:17.776727,
+1118,Aged bacardi (8 years old),ENG,completed,pending,2025-08-20T19:23:17.924868,
+1115,Peychaud’s bitters,ENG,completed,pending,2025-08-20T19:23:20.920947,
+1116,Rosso (sweet) vermouth,ENG,pending,skipped,2025-08-20T19:23:21.927672,No subcategories available
+1119,Pimm’s no. 1 4 to,ENG,pending,completed,2025-08-20T19:23:26.263427,
+1115,Peychaud’s bitters,ENG,pending,completed,2025-08-20T19:23:26.273220,
+1117,Good-quality rum,ENG,pending,completed,2025-08-20T19:23:27.657344,
+1118,Aged bacardi (8 years old),ENG,pending,completed,2025-08-20T19:23:28.585678,
+1124,Chilled club soda (optional),ENG,completed,pending,2025-08-20T19:23:34.111925,
+1122,"Crème de mûre (blackberry
+liqueur)",ENG,completed,pending,2025-08-20T19:23:34.548106,
+1121,"Mandarine napoléon (or other
+orange liqueur)",ENG,completed,pending,2025-08-20T19:23:34.936451,
+1123,Orgeat (or almond) syrup,ENG,completed,pending,2025-08-20T19:23:34.944217,
+1120,"Poire williams (or other pear
+brandy)",ENG,completed,pending,2025-08-20T19:24:35.112880,
+1124,Chilled club soda (optional),ENG,pending,skipped,2025-08-20T19:24:36.129019,No subcategories available
+1123,Orgeat (or almond) syrup,ENG,pending,skipped,2025-08-20T19:24:36.129530,No subcategories available
+1122,"Crème de mûre (blackberry
+liqueur)",ENG,pending,completed,2025-08-20T19:24:39.855919,
+1120,"Poire williams (or other pear
+brandy)",ENG,pending,completed,2025-08-20T19:24:40.110608,
+1121,"Mandarine napoléon (or other
+orange liqueur)",ENG,pending,completed,2025-08-20T19:24:40.474308,
+1126,"Chilled ginger ale or ginger
+beer",ENG,completed,pending,2025-08-20T19:24:46.587145,
+1128,Chilled tonic water,ENG,completed,pending,2025-08-20T19:24:46.834534,
+1125,Chilled ginger beer,ENG,completed,pending,2025-08-20T19:24:46.993265,
+1129,Dry red wine,ENG,completed,pending,2025-08-20T19:24:47.207259,
+1127,Good-quality gin,ENG,completed,pending,2025-08-20T19:24:49.886216,
+1129,Dry red wine,ENG,pending,skipped,2025-08-20T19:24:50.896915,No subcategories available
+1127,Good-quality gin,ENG,pending,skipped,2025-08-20T19:24:50.896344,No subcategories available
+1128,Chilled tonic water,ENG,pending,skipped,2025-08-20T19:24:50.899131,No subcategories available
+1126,"Chilled ginger ale or ginger
+beer",ENG,pending,completed,2025-08-20T19:24:56.647798,
+1125,Chilled ginger beer,ENG,pending,completed,2025-08-20T19:24:56.714268,
+1134,Noilly pratt dry vermouth,ENG,completed,pending,2025-08-20T19:25:02.480863,
+1133,Chilled gin,ENG,completed,pending,2025-08-20T19:25:02.565175,
+1132,Extra-dry vermouth,ENG,completed,pending,2025-08-20T19:25:03.132156,
+1130,"Black sambuca (such as opal
+nera)",ENG,completed,pending,2025-08-20T19:25:03.612529,
+1131,Fresh key lime or other lime juice,ENG,completed,pending,2025-08-20T19:25:04.039575,
+1131,Fresh key lime or other lime juice,ENG,pending,skipped,2025-08-20T19:25:05.049436,No subcategories available
+1134,Noilly pratt dry vermouth,ENG,pending,skipped,2025-08-20T19:25:05.051208,No subcategories available
+1133,Chilled gin,ENG,pending,skipped,2025-08-20T19:25:05.050618,No subcategories available
+1132,Extra-dry vermouth,ENG,pending,skipped,2025-08-20T19:25:05.050736,No subcategories available
+1130,"Black sambuca (such as opal
+nera)",ENG,pending,completed,2025-08-20T19:25:09.380408,
+1135,Or orange peel,ENG,completed,pending,2025-08-20T19:25:14.667003,
+1136,Noilly prat dry vermouth,ENG,completed,pending,2025-08-20T19:25:15.389204,
+1139,Egg white (optional),ENG,completed,pending,2025-08-20T19:25:15.450871,
+1138,"Fresh pink (or regular)
+grapefruit juice",ENG,completed,pending,2025-08-20T19:25:15.549413,
+1137,"Angostura or peychaud’s
+bitters",ENG,completed,pending,2025-08-20T19:25:19.072023,
+1139,Egg white (optional),ENG,pending,skipped,2025-08-20T19:25:20.083229,No subcategories available
+1136,Noilly prat dry vermouth,ENG,pending,skipped,2025-08-20T19:25:20.082924,No subcategories available
+1135,Or orange peel,ENG,pending,skipped,2025-08-20T19:25:20.079986,No subcategories available
+1138,"Fresh pink (or regular)
+grapefruit juice",ENG,pending,skipped,2025-08-20T19:25:20.083123,No subcategories available
+1137,"Angostura or peychaud’s
+bitters",ENG,pending,completed,2025-08-20T19:25:23.987580,
+1141,Tia maria (or other co,ENG,completed,pending,2025-08-20T19:25:29.573354,
+1143,Kahlúa (or other co,ENG,completed,pending,2025-08-20T19:25:31.163397,
+1140,Chilled white crème de cacao,ENG,completed,pending,2025-08-20T19:25:31.163932,
+1142,Kahlúa or tia maria,ENG,completed,pending,2025-08-20T19:25:31.803104,
+1144,Pimm’s no. 1,ENG,completed,pending,2025-08-20T19:25:32.795665,
+1140,Chilled white crème de cacao,ENG,pending,completed,2025-08-20T19:25:37.426463,
+1144,Pimm’s no. 1,ENG,pending,completed,2025-08-20T19:25:37.949591,
+1141,Tia maria (or other co,ENG,pending,completed,2025-08-20T19:25:37.980221,
+1143,Kahlúa (or other co,ENG,pending,completed,2025-08-20T19:25:38.135521,
+1142,Kahlúa or tia maria,ENG,pending,completed,2025-08-20T19:25:39.349202,
+1146,Demerera or spiced rum,ENG,completed,pending,2025-08-20T19:25:45.392119,
+1147,Good-quality light rum,ENG,completed,pending,2025-08-20T19:25:45.587272,
+1145,Bacardi light or gold rum,ENG,completed,pending,2025-08-20T19:25:45.803443,
+1148,Cachaça (or light rum),ENG,completed,pending,2025-08-20T19:25:47.541450,
+1149,Gold or dark rum,ENG,completed,pending,2025-08-20T19:25:47.904107,
+1145,Bacardi light or gold rum,ENG,pending,completed,2025-08-20T19:25:52.559033,
+1147,Good-quality light rum,ENG,pending,completed,2025-08-20T19:25:52.663391,
+1146,Demerera or spiced rum,ENG,pending,completed,2025-08-20T19:25:53.077207,
+1149,Gold or dark rum,ENG,pending,completed,2025-08-20T19:25:54.921133,
+1148,Cachaça (or light rum),ENG,pending,completed,2025-08-20T19:25:57.164274,
+1153,Ginger syrup or simple syrup,ENG,completed,pending,2025-08-20T19:26:03.156488,
+1154,Fresh ginger (optional),ENG,completed,pending,2025-08-20T19:26:03.294700,
+1152,Chilled cola,ENG,completed,pending,2025-08-20T19:26:03.381540,
+1150,Sugar or turbinado sugar,ENG,completed,pending,2025-08-20T19:26:03.736893,
+1151,Coconut sorbet or gelato,ENG,completed,pending,2025-08-20T19:26:05.195524,
+1152,Chilled cola,ENG,pending,skipped,2025-08-20T19:26:06.207430,No subcategories available
+1151,Coconut sorbet or gelato,ENG,pending,skipped,2025-08-20T19:26:06.207503,No subcategories available
+1153,Ginger syrup or simple syrup,ENG,pending,skipped,2025-08-20T19:26:06.207141,No subcategories available
+1150,Sugar or turbinado sugar,ENG,pending,skipped,2025-08-20T19:26:06.206031,No subcategories available
+1154,Fresh ginger (optional),ENG,pending,skipped,2025-08-20T19:26:06.207809,No subcategories available
+1155,"Seeded, cubed watermelon",ENG,completed,pending,2025-08-20T19:26:12.012039,
+1157,Fresh or frozen raspberries,ENG,completed,pending,2025-08-20T19:26:12.137797,
+1159,"Chilled ginger beer (or
+ginger ale)",ENG,completed,pending,2025-08-20T19:26:12.862231,
+1158,Lime wheel,ENG,completed,pending,2025-08-20T19:26:13.328062,
+1156,"Banana, peeled and sliced",ENG,completed,pending,2025-08-20T19:26:14.269804,
+1155,"Seeded, cubed watermelon",ENG,pending,skipped,2025-08-20T19:26:15.275352,No subcategories available
+1157,Fresh or frozen raspberries,ENG,pending,skipped,2025-08-20T19:26:15.274973,No subcategories available
+1158,Lime wheel,ENG,pending,skipped,2025-08-20T19:26:15.275506,No subcategories available
+1156,"Banana, peeled and sliced",ENG,pending,skipped,2025-08-20T19:26:15.275598,No subcategories available
+1159,"Chilled ginger beer (or
+ginger ale)",ENG,pending,completed,2025-08-20T19:26:19.152685,
+1162,"Myers’s dark or other dark
+jamaican rum",ENG,completed,pending,2025-08-20T19:26:24.701307,
+1163,"Martinique rhum vieux or other
+aged rum",ENG,completed,pending,2025-08-20T19:26:25.385881,
+1160,Tangerine (or orange),ENG,completed,pending,2025-08-20T19:26:25.473745,
+1164,Orgeat or almond-flavored syrup,ENG,completed,pending,2025-08-20T19:26:26.038384,
+1161,"Stolichnaya lemon vodka (or
+other lemon-",ENG,completed,pending,2025-08-20T19:26:27.006580,
+1164,Orgeat or almond-flavored syrup,ENG,pending,skipped,2025-08-20T19:26:28.018893,No subcategories available
+1160,Tangerine (or orange),ENG,pending,skipped,2025-08-20T19:26:28.018441,No subcategories available
+1162,"Myers’s dark or other dark
+jamaican rum",ENG,pending,completed,2025-08-20T19:26:31.369946,
+1163,"Martinique rhum vieux or other
+aged rum",ENG,pending,completed,2025-08-20T19:26:32.273485,
+1161,"Stolichnaya lemon vodka (or
+other lemon-",ENG,pending,completed,2025-08-20T19:26:33.238215,
+1168,Thinly sliced lime wheel,ENG,completed,pending,2025-08-20T19:26:39.458537,
+1167,"Fresh mandarin (or tangerine)
+juice",ENG,completed,pending,2025-08-20T19:26:40.124151,
+1166,"Monin passion fruit syrup (or
+other passion fruit syrup)",ENG,completed,pending,2025-08-20T19:26:40.597293,
+1169,Gold or jamaican rum,ENG,completed,pending,2025-08-20T19:26:40.915827,
+1165,Orange blossom (or tiny purple orchid),ENG,completed,pending,2025-08-20T19:26:40.934707,
+1166,"Monin passion fruit syrup (or
+other passion fruit syrup)",ENG,pending,skipped,2025-08-20T19:26:41.941475,No subcategories available
+1167,"Fresh mandarin (or tangerine)
+juice",ENG,pending,skipped,2025-08-20T19:26:41.941547,No subcategories available
+1168,Thinly sliced lime wheel,ENG,pending,skipped,2025-08-20T19:26:41.941705,No subcategories available
+1165,Orange blossom (or tiny purple orchid),ENG,pending,skipped,2025-08-20T19:26:41.941923,No subcategories available
+1169,Gold or jamaican rum,ENG,pending,completed,2025-08-20T19:26:46.015432,
+1171,Cachaça or light rum,ENG,completed,pending,2025-08-20T19:26:51.545746,
+1174,"99 bananas liqueur (or
+crème de banane)",ENG,completed,pending,2025-08-20T19:26:52.245176,
+1170,Almond or orgeat syrup,ENG,completed,pending,2025-08-20T19:26:52.615877,
+1173,Mango juice or nectar,ENG,completed,pending,2025-08-20T19:26:53.032533,
+1172,"Pomegranate syrup (real
+grenadine)",ENG,completed,pending,2025-08-20T19:26:53.816125,
+1172,"Pomegranate syrup (real
+grenadine)",ENG,pending,skipped,2025-08-20T19:26:54.829392,No subcategories available
+1173,Mango juice or nectar,ENG,pending,skipped,2025-08-20T19:26:54.824319,No subcategories available
+1170,Almond or orgeat syrup,ENG,pending,skipped,2025-08-20T19:26:54.827486,No subcategories available
+1171,Cachaça or light rum,ENG,pending,completed,2025-08-20T19:26:58.304728,
+1174,"99 bananas liqueur (or
+crème de banane)",ENG,pending,completed,2025-08-20T19:26:58.823073,
+1179,Malibu rum (or other coconut-,ENG,completed,pending,2025-08-20T19:27:04.446613,
+1178,"Chocolate liqueur (such as
+godiva)",ENG,completed,pending,2025-08-20T19:27:04.944114,
+1175,"Vanilla-infused rum (see page
+247)",ENG,completed,pending,2025-08-20T19:27:04.951827,
+1177,"Spiced rum (such as captain
+morgan)",ENG,completed,pending,2025-08-20T19:27:05.854241,
+1176,Light or gold rum,ENG,completed,pending,2025-08-20T19:27:06.556170,
+1179,Malibu rum (or other coconut-,ENG,pending,completed,2025-08-20T19:27:11.158489,
+1177,"Spiced rum (such as captain
+morgan)",ENG,pending,completed,2025-08-20T19:27:11.238140,
+1178,"Chocolate liqueur (such as
+godiva)",ENG,pending,completed,2025-08-20T19:27:11.729884,
+1175,"Vanilla-infused rum (see page
+247)",ENG,pending,completed,2025-08-20T19:27:12.691908,
+1176,Light or gold rum,ENG,pending,completed,2025-08-20T19:27:13.043813,
+1184,Triple sec or other orange liqueur,ENG,completed,pending,2025-08-20T19:27:18.371897,
+1181,"Pernod (or other absinthe
+substitute)",ENG,completed,pending,2025-08-20T19:27:19.192290,
+1182,Gold (añejo) rum,ENG,completed,pending,2025-08-20T19:27:19.370496,
+1183,"Pepper-infused tequila (see
+page 71)",ENG,completed,pending,2025-08-20T19:27:19.548890,
+1180,"Pineapple-infused rum (see
+page 247)",ENG,completed,pending,2025-08-20T19:27:20.217996,
+1183,"Pepper-infused tequila (see
+page 71)",ENG,pending,skipped,2025-08-20T19:27:21.227517,No subcategories available
+1184,Triple sec or other orange liqueur,ENG,pending,completed,2025-08-20T19:27:24.442700,
+1181,"Pernod (or other absinthe
+substitute)",ENG,pending,completed,2025-08-20T19:27:26.575334,
+1180,"Pineapple-infused rum (see
+page 247)",ENG,pending,completed,2025-08-20T19:27:26.669301,
+1182,Gold (añejo) rum,ENG,pending,completed,2025-08-20T19:27:27.118734,
+1186,"Garlic, finely minced",ENG,completed,pending,2025-08-20T19:27:32.298631,
+1188,"Clove garlic,",ENG,completed,pending,2025-08-20T19:27:33.386368,
+1185,"Washed, stemmed, halved orange
+cherry tomatoes",ENG,completed,pending,2025-08-20T19:27:33.829129,
+1187,Tomato or v8 juice,ENG,completed,pending,2025-08-20T19:27:34.366073,
+1189,"Tabasco sauce or other hot
+sauce",ENG,completed,pending,2025-08-20T19:28:34.865902,
+1188,"Clove garlic,",ENG,pending,skipped,2025-08-20T19:28:35.871852,No subcategories available
+1185,"Washed, stemmed, halved orange
+cherry tomatoes",ENG,pending,skipped,2025-08-20T19:28:35.871955,No subcategories available
+1189,"Tabasco sauce or other hot
+sauce",ENG,pending,skipped,2025-08-20T19:28:35.872041,No subcategories available
+1187,Tomato or v8 juice,ENG,pending,skipped,2025-08-20T19:28:35.872349,No subcategories available
+1186,"Garlic, finely minced",ENG,pending,skipped,2025-08-20T19:28:35.872100,No subcategories available
+1194,Good-quality reposado tequila,ENG,completed,pending,2025-08-20T19:28:41.565064,
+1193,"Sliced, hulled fresh strawberries",ENG,completed,pending,2025-08-20T19:28:42.331634,
+1190,Kahlúa (or tia maria),ENG,completed,pending,2025-08-20T19:28:42.431115,
+1192,"Citrónge (or other orange
+liqueur)",ENG,completed,pending,2025-08-20T19:28:42.818806,
+1191,"Vanilla-infused tequila (see
+page 71)",ENG,completed,pending,2025-08-20T19:28:44.400804,
+1191,"Vanilla-infused tequila (see
+page 71)",ENG,pending,skipped,2025-08-20T19:28:45.417328,No subcategories available
+1193,"Sliced, hulled fresh strawberries",ENG,pending,skipped,2025-08-20T19:28:45.417969,No subcategories available
+1190,Kahlúa (or tia maria),ENG,pending,completed,2025-08-20T19:28:49.263192,
+1194,Good-quality reposado tequila,ENG,pending,completed,2025-08-20T19:28:50.571444,
+1192,"Citrónge (or other orange
+liqueur)",ENG,pending,completed,2025-08-20T19:28:50.717346,
+1196,Small pink orchids (optional,ENG,completed,pending,2025-08-20T19:28:56.777390,
+1198,Triple sec or cointreau,ENG,completed,pending,2025-08-20T19:28:57.128427,
+1197,"Nectarine, pitted and sliced",ENG,completed,pending,2025-08-20T19:28:57.161887,
+1199,"Maraschino cherry juice (from a
+jar of cherries)",ENG,completed,pending,2025-08-20T19:28:59.117864,
+1195,Thinly sliced english cucumber,ENG,completed,pending,2025-08-20T19:28:59.248635,
+1195,Thinly sliced english cucumber,ENG,pending,skipped,2025-08-20T19:29:00.262181,No subcategories available
+1199,"Maraschino cherry juice (from a
+jar of cherries)",ENG,pending,skipped,2025-08-20T19:29:00.263309,No subcategories available
+1197,"Nectarine, pitted and sliced",ENG,pending,skipped,2025-08-20T19:29:00.260010,No subcategories available
+1196,Small pink orchids (optional,ENG,pending,skipped,2025-08-20T19:29:00.259880,No subcategories available
+1198,Triple sec or cointreau,ENG,pending,completed,2025-08-20T19:29:04.050242,
+1200,Grenadine (or chambord),ENG,completed,pending,2025-08-20T19:29:09.783865,
+1201,Good-quality silver tequila,ENG,completed,pending,2025-08-20T19:29:11.113536,
+1202,Vodka (regular or apple,ENG,completed,pending,2025-08-20T19:29:11.505222,
+1204,"Horseradish (freshly grated, if
+possible)",ENG,completed,pending,2025-08-20T19:29:11.549047,
+1203,Apple purée (or apple juice),ENG,completed,pending,2025-08-20T19:29:12.070616,
+1200,Grenadine (or chambord),ENG,pending,skipped,2025-08-20T19:29:13.080038,No subcategories available
+1203,Apple purée (or apple juice),ENG,pending,skipped,2025-08-20T19:29:13.080387,No subcategories available
+1204,"Horseradish (freshly grated, if
+possible)",ENG,pending,skipped,2025-08-20T19:29:13.084004,No subcategories available
+1201,Good-quality silver tequila,ENG,pending,completed,2025-08-20T19:29:18.146662,
+1202,Vodka (regular or apple,ENG,pending,completed,2025-08-20T19:29:18.825571,
+1207,"Wasabi (or prepared
+horseradish)",ENG,completed,pending,2025-08-20T19:29:24.121638,
+1205,Vodka (or pepper-flavored vodka),ENG,completed,pending,2025-08-20T19:29:24.529041,
+1209,"Godiva chocolate liqueur (or
+dark crème de cacao)",ENG,completed,pending,2025-08-20T19:29:24.570269,
+1206,Chilled tomato juice,ENG,completed,pending,2025-08-20T19:29:25.181122,
+1208,Vodka (or vanilla-flavored vodka),ENG,completed,pending,2025-08-20T19:29:25.638805,
+1207,"Wasabi (or prepared
+horseradish)",ENG,pending,skipped,2025-08-20T19:29:26.643403,No subcategories available
+1206,Chilled tomato juice,ENG,pending,skipped,2025-08-20T19:29:26.652694,No subcategories available
+1209,"Godiva chocolate liqueur (or
+dark crème de cacao)",ENG,pending,completed,2025-08-20T19:29:31.183736,
+1208,Vodka (or vanilla-flavored vodka),ENG,pending,completed,2025-08-20T19:29:31.490577,
+1205,Vodka (or pepper-flavored vodka),ENG,pending,completed,2025-08-20T19:29:32.085677,
+1211,Espresso or strong co,ENG,completed,pending,2025-08-20T19:29:37.944455,
+1213,Grand marnier (or cointreau),ENG,completed,pending,2025-08-20T19:29:38.081951,
+1212,"Sparkling tangerine or
+orange beverage",ENG,completed,pending,2025-08-20T19:29:38.708765,
+1214,Midori or other melon liqueur,ENG,completed,pending,2025-08-20T19:29:39.482220,
+1210,Chilled 7-up,ENG,completed,pending,2025-08-20T19:29:42.456700,
+1212,"Sparkling tangerine or
+orange beverage",ENG,pending,skipped,2025-08-20T19:29:43.461461,No subcategories available
+1211,Espresso or strong co,ENG,pending,skipped,2025-08-20T19:29:43.460837,No subcategories available
+1210,Chilled 7-up,ENG,pending,skipped,2025-08-20T19:29:43.461168,No subcategories available
+1213,Grand marnier (or cointreau),ENG,pending,completed,2025-08-20T19:29:47.056760,
+1214,Midori or other melon liqueur,ENG,pending,completed,2025-08-20T19:29:47.136390,
+1219,Chilled purple grape juice,ENG,completed,pending,2025-08-20T19:29:52.073463,
+1215,Ginger beer (or ginger ale),ENG,completed,pending,2025-08-20T19:29:53.251794,
+1217,"Ginger-infused vodka (see page
+70)",ENG,completed,pending,2025-08-20T19:29:55.247829,
+1216,"Seeded, peeled, cubed papaya",ENG,completed,pending,2025-08-20T19:29:56.375473,
+1218,Chilled premium sake,ENG,completed,pending,2025-08-20T19:29:56.981507,
+1219,Chilled purple grape juice,ENG,pending,skipped,2025-08-20T19:29:57.993436,No subcategories available
+1218,Chilled premium sake,ENG,pending,skipped,2025-08-20T19:29:57.993387,No subcategories available
+1216,"Seeded, peeled, cubed papaya",ENG,pending,skipped,2025-08-20T19:29:57.995702,No subcategories available
+1217,"Ginger-infused vodka (see page
+70)",ENG,pending,completed,2025-08-20T19:30:01.539217,
+1215,Ginger beer (or ginger ale),ENG,pending,completed,2025-08-20T19:30:01.695106,
+1223,"Peppermint schnapps (or white
+crème de menthe)",ENG,completed,pending,2025-08-20T19:30:07.264346,
+1220,Dry sake,ENG,completed,pending,2025-08-20T19:30:07.624222,
+1224,Rye (or blended whiskey),ENG,completed,pending,2025-08-20T19:30:07.937368,
+1221,Lemon-flavored vodka),ENG,completed,pending,2025-08-20T19:30:10.633144,
+1222,Midori (or other melon-flavored liquer),ENG,completed,pending,2025-08-20T19:30:11.122318,
+1220,Dry sake,ENG,pending,skipped,2025-08-20T19:30:12.128705,No subcategories available
+1224,Rye (or blended whiskey),ENG,pending,skipped,2025-08-20T19:30:12.134852,No subcategories available
+1223,"Peppermint schnapps (or white
+crème de menthe)",ENG,pending,completed,2025-08-20T19:30:16.036128,
+1221,Lemon-flavored vodka),ENG,pending,completed,2025-08-20T19:30:16.036574,
+1222,Midori (or other melon-flavored liquer),ENG,pending,completed,2025-08-20T19:30:16.634540,
+1229,Milk (or 3 ounces half-and-half),ENG,completed,pending,2025-08-20T19:30:22.591273,
+1227,Vanilla beans,ENG,completed,pending,2025-08-20T19:30:23.296130,
+1228,"Cointreau (or maraschino
+liqueur)",ENG,completed,pending,2025-08-20T19:30:24.740300,
+1225,Absinthe substitute (pernod or anisette),ENG,completed,pending,2025-08-20T19:30:25.181757,
+1226,Bourbon (or blended whiskey),ENG,completed,pending,2025-08-20T19:30:26.276192,
+1229,Milk (or 3 ounces half-and-half),ENG,pending,skipped,2025-08-20T19:30:27.291571,No subcategories available
+1227,Vanilla beans,ENG,pending,skipped,2025-08-20T19:30:27.292342,No subcategories available
+1226,Bourbon (or blended whiskey),ENG,pending,skipped,2025-08-20T19:30:27.291451,No subcategories available
+1228,"Cointreau (or maraschino
+liqueur)",ENG,pending,completed,2025-08-20T19:30:30.635231,
+1225,Absinthe substitute (pernod or anisette),ENG,pending,completed,2025-08-20T19:30:32.055557,
+1232,Lemon or tangerine,ENG,completed,pending,2025-08-20T19:30:37.434917,
+1231,"Bourbon (or blended canadian
+whisky)",ENG,completed,pending,2025-08-20T19:30:38.016084,
+1230,Scotch or bourbon,ENG,completed,pending,2025-08-20T19:30:38.452161,
+1234,Bourbon (or rye),ENG,completed,pending,2025-08-20T19:30:40.410776,
+1233,"Rye, bourbon, or blended
+canadian whisky",ENG,completed,pending,2025-08-20T19:30:40.564976,
+1231,"Bourbon (or blended canadian
+whisky)",ENG,pending,skipped,2025-08-20T19:30:41.570828,No subcategories available
+1230,Scotch or bourbon,ENG,pending,skipped,2025-08-20T19:30:41.571022,No subcategories available
+1232,Lemon or tangerine,ENG,pending,skipped,2025-08-20T19:30:41.571089,No subcategories available
+1234,Bourbon (or rye),ENG,pending,skipped,2025-08-20T19:30:41.571343,No subcategories available
+1233,"Rye, bourbon, or blended
+canadian whisky",ENG,pending,skipped,2025-08-20T19:30:41.571229,No subcategories available
+1235,Pernod (or herbsaint),ENG,completed,pending,2025-08-20T19:30:47.576063,
+1238,Herbsaint (or pernod or ricard),ENG,completed,pending,2025-08-20T19:30:47.805114,
+1239,Seagram’s 7 crown whiskey,ENG,completed,pending,2025-08-20T19:30:47.825648,
+1237,Peychaud’s or angostura bitters,ENG,completed,pending,2025-08-20T19:30:47.991572,
+1236,Cognac (or bourbon or rye),ENG,completed,pending,2025-08-20T19:30:48.628195,
+1239,Seagram’s 7 crown whiskey,ENG,pending,skipped,2025-08-20T19:30:49.642075,No subcategories available
+1236,Cognac (or bourbon or rye),ENG,pending,completed,2025-08-20T19:30:52.951698,
+1237,Peychaud’s or angostura bitters,ENG,pending,completed,2025-08-20T19:30:53.120394,
+1238,Herbsaint (or pernod or ricard),ENG,pending,completed,2025-08-20T19:30:53.489534,
+1235,Pernod (or herbsaint),ENG,pending,completed,2025-08-20T19:30:54.107943,
+1243,Chilled white wine,ENG,completed,pending,2025-08-20T19:30:59.658492,
+1242,Blended or other whiskey,ENG,completed,pending,2025-08-20T19:31:00.213968,
+1244,"Chilled light, dry red wine",ENG,completed,pending,2025-08-20T19:31:02.115567,
+1241,Lemon or orange,ENG,completed,pending,2025-08-20T19:31:03.051477,
+1240,"Blended canadian whisky or
+bourbon",ENG,completed,pending,2025-08-20T19:31:03.462239,
+1242,Blended or other whiskey,ENG,pending,skipped,2025-08-20T19:31:04.465926,No subcategories available
+1244,"Chilled light, dry red wine",ENG,pending,skipped,2025-08-20T19:31:04.466092,No subcategories available
+1243,Chilled white wine,ENG,pending,skipped,2025-08-20T19:31:04.466137,No subcategories available
+1241,Lemon or orange,ENG,pending,skipped,2025-08-20T19:31:04.466020,No subcategories available
+1240,"Blended canadian whisky or
+bourbon",ENG,pending,skipped,2025-08-20T19:31:04.465792,No subcategories available
+1249,Chilled dry red wine,ENG,completed,pending,2025-08-20T19:31:10.210786,
+1247,Chilled dry white wine,ENG,completed,pending,2025-08-20T19:31:10.652339,
+1245,"Bottle dry red wine, chilled",ENG,completed,pending,2025-08-20T19:31:11.642005,
+1248,"Chilled dry white wine (such as
+chardonnay, pinot gris, or sauvignon
+blanc)",ENG,completed,pending,2025-08-20T19:31:14.990748,
+1246,"Bottle club soda, chilled",ENG,completed,pending,2025-08-20T19:31:15.614965,
+1246,"Bottle club soda, chilled",ENG,pending,skipped,2025-08-20T19:31:16.623070,No subcategories available
+1248,"Chilled dry white wine (such as
+chardonnay, pinot gris, or sauvignon
+blanc)",ENG,pending,skipped,2025-08-20T19:31:16.622113,No subcategories available
+1247,Chilled dry white wine,ENG,pending,skipped,2025-08-20T19:31:16.621530,No subcategories available
+1249,Chilled dry red wine,ENG,pending,skipped,2025-08-20T19:31:16.623246,No subcategories available
+1245,"Bottle dry red wine, chilled",ENG,pending,skipped,2025-08-20T19:31:16.624055,No subcategories available
+1252,Dry (fino) sherry,ENG,completed,pending,2025-08-20T19:31:22.322304,
+1250,Chilled lemon-lime soda,ENG,completed,pending,2025-08-20T19:31:23.207053,
+1254,Dry rosé wine,ENG,completed,pending,2025-08-20T19:31:23.584332,
+1251,Peychaud’s or orange bitters,ENG,completed,pending,2025-08-20T19:31:24.542400,
+1253,Orange or lemon,ENG,completed,pending,2025-08-20T19:31:24.849106,
+1250,Chilled lemon-lime soda,ENG,pending,skipped,2025-08-20T19:31:25.859737,No subcategories available
+1252,Dry (fino) sherry,ENG,pending,skipped,2025-08-20T19:31:25.861519,No subcategories available
+1253,Orange or lemon,ENG,pending,skipped,2025-08-20T19:31:25.859886,No subcategories available
+1254,Dry rosé wine,ENG,pending,skipped,2025-08-20T19:31:25.861460,No subcategories available
+1251,Peychaud’s or orange bitters,ENG,pending,completed,2025-08-20T19:31:34.169969,
+1258,"Lemon, cut into strips",ENG,completed,pending,2025-08-20T19:31:40.316147,
+1255,Pale dry sherry,ENG,completed,pending,2025-08-20T19:31:40.668660,
+1257,"Orange, cut into strips",ENG,completed,pending,2025-08-20T19:31:40.871743,
+1259,"Hot, freshly brewed coffee",ENG,completed,pending,2025-08-20T19:31:41.061213,
+1256,Bottles dry red wine,ENG,completed,pending,2025-08-20T19:31:41.798725,
+1257,"Orange, cut into strips",ENG,pending,skipped,2025-08-20T19:31:42.808035,No subcategories available
+1255,Pale dry sherry,ENG,pending,skipped,2025-08-20T19:31:42.806771,No subcategories available
+1258,"Lemon, cut into strips",ENG,pending,skipped,2025-08-20T19:31:42.807512,No subcategories available
+1256,Bottles dry red wine,ENG,pending,skipped,2025-08-20T19:31:42.809839,No subcategories available
+1259,"Hot, freshly brewed coffee",ENG,pending,skipped,2025-08-20T19:31:42.809422,No subcategories available
+1263,Dry white wine,ENG,completed,pending,2025-08-20T19:31:47.889743,
+1260,"Hot milk (or 6 ounces hot milk
+and 6 ounces hot water)",ENG,completed,pending,2025-08-20T19:31:49.013754,
+1262,Granulated or brown sugar,ENG,completed,pending,2025-08-20T19:31:49.213938,
+1264,Apricot liqueur (or brandy),ENG,completed,pending,2025-08-20T19:31:49.261050,
+1261,"Freshly grated or ground
+nutmeg",ENG,completed,pending,2025-08-20T19:31:49.740079,
+1263,Dry white wine,ENG,pending,skipped,2025-08-20T19:31:50.750457,No subcategories available
+1262,Granulated or brown sugar,ENG,pending,skipped,2025-08-20T19:31:50.751562,No subcategories available
+1261,"Freshly grated or ground
+nutmeg",ENG,pending,skipped,2025-08-20T19:31:50.749961,No subcategories available
+1260,"Hot milk (or 6 ounces hot milk
+and 6 ounces hot water)",ENG,pending,skipped,2025-08-20T19:31:50.751477,No subcategories available
+1264,Apricot liqueur (or brandy),ENG,pending,completed,2025-08-20T19:31:55.648021,
+1267,"Frozen lemonade concentrate
+(thawed)",ENG,completed,pending,2025-08-20T19:32:01.611376,
+1266,Lime-flavored ice cubes( made from limeade) or regular ice cubes,ENG,completed,pending,2025-08-20T19:32:01.611666,
+1265,Cointreau (or curaçao),ENG,completed,pending,2025-08-20T19:32:02.112314,
+1268,"Chilled muscat white
+wine",ENG,completed,pending,2025-08-20T19:32:03.351899,
+1269,Chilled light rum,ENG,completed,pending,2025-08-20T19:32:03.476142,
+1268,"Chilled muscat white
+wine",ENG,pending,skipped,2025-08-20T19:32:04.483589,No subcategories available
+1266,Lime-flavored ice cubes( made from limeade) or regular ice cubes,ENG,pending,skipped,2025-08-20T19:32:04.482424,No subcategories available
+1267,"Frozen lemonade concentrate
+(thawed)",ENG,pending,skipped,2025-08-20T19:32:04.481357,No subcategories available
+1269,Chilled light rum,ENG,pending,completed,2025-08-20T19:32:08.790846,
+1265,Cointreau (or curaçao),ENG,pending,completed,2025-08-20T19:32:10.416604,
+1271,"Strawberries, hulled and sliced",ENG,completed,pending,2025-08-20T19:32:15.749206,
+1273,Chilled brandy,ENG,completed,pending,2025-08-20T19:32:15.895554,
+1272,Chilled dark rum,ENG,completed,pending,2025-08-20T19:32:16.184148,
+1270,Chilled apricot nectar,ENG,completed,pending,2025-08-20T19:32:16.550364,
+1274,"Chilled dry red wine
+(preferably a rioja)",ENG,completed,pending,2025-08-20T19:32:16.690176,
+1270,Chilled apricot nectar,ENG,pending,skipped,2025-08-20T19:32:17.698845,No subcategories available
+1274,"Chilled dry red wine
+(preferably a rioja)",ENG,pending,skipped,2025-08-20T19:32:17.701411,No subcategories available
+1271,"Strawberries, hulled and sliced",ENG,pending,skipped,2025-08-20T19:32:17.701707,No subcategories available
+1273,Chilled brandy,ENG,pending,completed,2025-08-20T19:32:21.268627,
+1272,Chilled dark rum,ENG,pending,completed,2025-08-20T19:32:23.763322,
+1277,Cubed fresh or frozen pineapple,ENG,completed,pending,2025-08-20T19:32:29.331625,
+1276,"Diced fresh coconut meat (or 2
+ounces coconut milk)",ENG,completed,pending,2025-08-20T19:32:29.332202,
+1278,"Banana, peeled and slice",ENG,completed,pending,2025-08-20T19:32:29.606380,
+1275,"Peaches, pitted and sliced",ENG,completed,pending,2025-08-20T19:32:29.611635,
+1279,"Pears, cored and sliced",ENG,completed,pending,2025-08-20T19:32:29.936402,
+1275,"Peaches, pitted and sliced",ENG,pending,skipped,2025-08-20T19:32:30.945308,No subcategories available
+1278,"Banana, peeled and slice",ENG,pending,skipped,2025-08-20T19:32:30.945990,No subcategories available
+1279,"Pears, cored and sliced",ENG,pending,skipped,2025-08-20T19:32:30.945889,No subcategories available
+1276,"Diced fresh coconut meat (or 2
+ounces coconut milk)",ENG,pending,skipped,2025-08-20T19:32:30.945193,No subcategories available
+1277,Cubed fresh or frozen pineapple,ENG,pending,skipped,2025-08-20T19:32:30.945922,No subcategories available
+1282,"Chilled champagne or other
+sparkling wine",ENG,completed,pending,2025-08-20T19:32:37.269919,
+1283,Freezer-chilled vodka,ENG,completed,pending,2025-08-20T19:32:38.266925,
+1284,Chilled vodka,ENG,completed,pending,2025-08-20T19:32:38.686692,
+1280,"Granny smith apples, cored and sliced",ENG,completed,pending,2025-08-20T19:32:40.111628,
+1281,"Fresh
+mint leaves (approximately 20 leaves)",ENG,completed,pending,2025-08-20T19:33:38.788111,
+1282,"Chilled champagne or other
+sparkling wine",ENG,pending,skipped,2025-08-20T19:33:39.797581,No subcategories available
+1280,"Granny smith apples, cored and sliced",ENG,pending,skipped,2025-08-20T19:33:39.797518,No subcategories available
+1281,"Fresh
+mint leaves (approximately 20 leaves)",ENG,pending,skipped,2025-08-20T19:33:39.797737,No subcategories available
+1284,Chilled vodka,ENG,pending,completed,2025-08-20T19:33:43.609494,
+1283,Freezer-chilled vodka,ENG,pending,completed,2025-08-20T19:33:45.240255,
+1289,"Godiva chocolate liqueur (or
+crème de cacao)",ENG,completed,pending,2025-08-20T19:33:50.990291,
+1288,"Green tabasco (or other hot
+sauce), or to taste",ENG,completed,pending,2025-08-20T19:33:51.027795,
+1285,"Rose’s lime juice (or fresh lime
+juice)",ENG,completed,pending,2025-08-20T19:33:52.097011,
+1286,Freezer-chilled citron vodka,ENG,completed,pending,2025-08-20T19:33:53.403063,
+1287,"Salsa (medium to hot,
+according to taste)",ENG,completed,pending,2025-08-20T19:33:53.741916,
+1288,"Green tabasco (or other hot
+sauce), or to taste",ENG,pending,skipped,2025-08-20T19:33:54.748920,No subcategories available
+1285,"Rose’s lime juice (or fresh lime
+juice)",ENG,pending,skipped,2025-08-20T19:33:54.748860,No subcategories available
+1287,"Salsa (medium to hot,
+according to taste)",ENG,pending,skipped,2025-08-20T19:33:54.748958,No subcategories available
+1289,"Godiva chocolate liqueur (or
+crème de cacao)",ENG,pending,completed,2025-08-20T19:33:58.350387,
+1286,Freezer-chilled citron vodka,ENG,pending,completed,2025-08-20T19:33:59.778935,
+1292,Grated lime zest (optional),ENG,completed,pending,2025-08-20T19:34:05.210784,
+1290,"Orangina (or other sparkling
+orange beverage)",ENG,completed,pending,2025-08-20T19:34:05.640496,
+1294,Fresh mint leaves,ENG,completed,pending,2025-08-20T19:34:05.714223,
+1293,"Triple sec (or other orange
+liqueur)",ENG,completed,pending,2025-08-20T19:34:06.394330,
+1291,"Box sparkling mandarin
+orange gelatin (or orange gelatin)",ENG,completed,pending,2025-08-20T19:34:06.498789,
+1294,Fresh mint leaves,ENG,pending,skipped,2025-08-20T19:34:07.521389,No subcategories available
+1291,"Box sparkling mandarin
+orange gelatin (or orange gelatin)",ENG,pending,skipped,2025-08-20T19:34:07.521284,No subcategories available
+1292,Grated lime zest (optional),ENG,pending,skipped,2025-08-20T19:34:07.508653,No subcategories available
+1293,"Triple sec (or other orange
+liqueur)",ENG,pending,completed,2025-08-20T19:34:10.435547,
+1290,"Orangina (or other sparkling
+orange beverage)",ENG,pending,completed,2025-08-20T19:34:10.625784,
+1297,"Chilled jamaican ginger beer
+or ginger ale",ENG,completed,pending,2025-08-20T19:34:15.881946,
+1298,"Softened coconut sorbet or coconut
+gelato",ENG,completed,pending,2025-08-20T19:34:16.990498,
+1295,"Simple syrup (or 1 tablespoon
+superfine sugar)",ENG,completed,pending,2025-08-20T19:34:17.408325,
+1296,Fresh cilantro leaves,ENG,completed,pending,2025-08-20T19:34:17.609088,
+1299,Chilled,ENG,completed,pending,2025-08-20T19:34:17.706167,
+1298,"Softened coconut sorbet or coconut
+gelato",ENG,pending,skipped,2025-08-20T19:34:18.715767,No subcategories available
+1295,"Simple syrup (or 1 tablespoon
+superfine sugar)",ENG,pending,skipped,2025-08-20T19:34:18.713583,No subcategories available
+1296,Fresh cilantro leaves,ENG,pending,skipped,2025-08-20T19:34:18.713507,No subcategories available
+1299,Chilled,ENG,pending,skipped,2025-08-20T19:34:18.715937,No subcategories available
+1297,"Chilled jamaican ginger beer
+or ginger ale",ENG,pending,completed,2025-08-20T19:34:22.821029,
+1302,Ginger syrup (see page 73),ENG,completed,pending,2025-08-20T19:34:28.860801,
+1304,Chilled tomato or v8 juice,ENG,completed,pending,2025-08-20T19:34:28.891110,
+1301,Chilled filtered water,ENG,completed,pending,2025-08-20T19:34:30.088390,
+1300,"Chilled ginger beer or ginger
+ale",ENG,completed,pending,2025-08-20T19:34:30.552426,
+1303,"Papaya, peeled, seeded, and cubed",ENG,completed,pending,2025-08-20T19:34:30.977609,
+1302,Ginger syrup (see page 73),ENG,pending,skipped,2025-08-20T19:34:31.987984,No subcategories available
+1301,Chilled filtered water,ENG,pending,skipped,2025-08-20T19:34:31.988112,No subcategories available
+1303,"Papaya, peeled, seeded, and cubed",ENG,pending,skipped,2025-08-20T19:34:31.991309,No subcategories available
+1304,Chilled tomato or v8 juice,ENG,pending,skipped,2025-08-20T19:34:31.991495,No subcategories available
+1300,"Chilled ginger beer or ginger
+ale",ENG,pending,completed,2025-08-20T19:34:37.976243,
+1308,Cold beef broth or bouillon,ENG,completed,pending,2025-08-20T19:34:43.302384,
+1305,"Fresh peppermint leaves (or 1
+teaspoon dried peppermint)",ENG,completed,pending,2025-08-20T19:34:43.759482,
+1306,Angostura or other bitters,ENG,completed,pending,2025-08-20T19:34:45.964355,
+1307,Chilled guinness,ENG,completed,pending,2025-08-20T19:34:46.575116,
+1305,"Fresh peppermint leaves (or 1
+teaspoon dried peppermint)",ENG,pending,skipped,2025-08-20T19:34:47.586346,No subcategories available
+1308,Cold beef broth or bouillon,ENG,pending,completed,2025-08-20T19:34:51.797588,
+1306,Angostura or other bitters,ENG,pending,completed,2025-08-20T19:34:51.989613,
+1307,Chilled guinness,ENG,pending,completed,2025-08-20T19:34:53.754556,

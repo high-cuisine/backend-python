@@ -1,0 +1,57 @@
+id,language,name,is_main,is_alcoholic
+1,ENG,Rum,False,True
+2,ENG,Lemonade,False,False
+3,ENG,Liqueur,False,True
+4,ENG,Absinthe,False,True
+5,ENG,Other not alcohol,False,False
+6,ENG,Beer,False,True
+7,ENG,Syrup,False,False
+8,ENG,Coffee,False,False
+10,ENG,Fruits,False,False
+11,ENG,Brandy,False,True
+12,ENG,Wine,False,True
+13,ENG,Juice,False,False
+14,ENG,Vodka,False,True
+15,ENG,Vegetables,False,False
+17,RUS,Лимонад,False,False
+18,ENG,Whiskey,False,True
+19,ENG,Water,False,False
+20,ENG,Gin,False,True
+21,ENG,Other products,False,False
+22,ENG,Spices,False,False
+23,RUS,Ликер,False,True
+24,ENG,Tea,False,False
+25,ENG,Cognac,False,True
+26,RUS,Иное,False,False
+27,ENG,Berries,False,False
+28,RUS,Иные продукты,False,False
+29,ENG,Tequila,False,True
+30,ENG,Pear,False,False
+31,RUS,Фрукты,False,False
+33,RUS,Иные б/а напитки,False,False
+34,RUS,Сок,False,False
+35,RUS,Абсент,False,True
+36,RUS,Виски,False,True
+38,RUS,Текила,False,True
+39,RUS,Специи,False,False
+40,RUS,Вино,False,True
+41,RUS,Ягоды,False,False
+42,RUS,Водка,False,True
+43,RUS,Вода,False,False
+44,RUS,Сироп,False,False
+45,RUS,Джин,False,True
+46,RUS,Коньяк,False,True
+47,RUS,Кофе,False,False
+48,RUS,Овощи,False,False
+53,RUS,Пиво,True,True
+54,RUS,Бренди,True,True
+55,RUS,Арманьяк,False,False
+56,ENG,Armagnac,False,False
+58,RUS,Настойки,True,True
+57,RUS,Самбука,True,True
+49,RUS,Ром,False,True
+50,ENG,Vine,True,True
+37,RUS,Иной алкоголь,False,True
+32,ENG,Sambuca,False,True
+16,ENG,Liquors,False,True
+9,ENG,Other alcohol,False,True

@@ -1,0 +1,6 @@
+# secrets - do not commit
+cocktails/services/user_token.json
+cocktails/services/client_secret.json
+archive/ingredient_fill.py
+cocktails/apps/recipe/management/commands/process_ingredients.py
+.env

@@ -1,4 +1,6 @@
-FROM python:3.11-alpine as builder
+# syntax=docker/dockerfile:1
+# Используйте: DOCKER_BUILDKIT=1 docker compose build web (кэш pip ускорит повторные сборки)
+FROM python:3.11-alpine AS builder
 
 RUN apk update && \
     apk add --no-cache build-base postgresql-dev gcc python3-dev musl-dev openssl libffi-dev openssl-dev py3-pip
@@ -7,7 +9,8 @@ ARG TEMP_PATH=/usr/src/web
 
 COPY ./cocktails/requirements.txt $TEMP_PATH/requirements.txt
 
-RUN pip install --upgrade pip setuptools && \
+RUN --mount=type=cache,target=/root/.cache/pip \
+    pip install --upgrade pip setuptools && \
     pip install --no-warn-script-location --prefix=/install -r $TEMP_PATH/requirements.txt
 
 

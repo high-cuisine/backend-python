@@ -4,7 +4,8 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
 
 WORKDIR /cocktails
 COPY ./cocktails/requirements.txt /cocktails/requirements.txt
-RUN pip install -r requirements.txt --no-cache-dir
+# Без --no-cache-dir: повторные сборки используют кэш pip и идут быстрее
+RUN pip install --upgrade pip && pip install -r requirements.txt
 COPY ./cocktails /cocktails
 
 EXPOSE 8000

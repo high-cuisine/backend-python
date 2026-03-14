@@ -531,8 +531,8 @@ class ClaimViewSet(mixins.CreateModelMixin, GenericViewSet):
             try:
                 cost = Config.objects.get(code='create_recipe')
                 cost = int(cost.value)
-            except Config.DoesNotExist:
-                cost = 100
+            except (Config.DoesNotExist, ValueError, TypeError):
+                cost = 15
 
             Point.objects.create(user=user, text='Приготовил рецепт', points=cost, charge=False)
 

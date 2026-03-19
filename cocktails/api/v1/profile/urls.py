@@ -4,7 +4,9 @@ from .views import *
 
 
 user_list = UserViewSet.as_view({
-    'get': 'retrieve'
+    'get': 'retrieve',
+    'put': 'update',
+    'patch': 'partial_update',
 })
 
 router = DefaultRouter()

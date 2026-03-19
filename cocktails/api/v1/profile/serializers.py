@@ -58,13 +58,14 @@ class UserSerializer(serializers.ModelSerializer):
 class UserUpdateSerializer(serializers.ModelSerializer):
     first_name = serializers.CharField(required=False)
     last_name = serializers.CharField(required=False)
+    email = serializers.EmailField(required=False)
     gender = serializers.CharField(required=False)
     date_of_birth = serializers.DateField(required=False)
     avatar = serializers.FileField(required=False)
 
     class Meta:
         model = User
-        fields = ['first_name', 'last_name', 'gender', 'date_of_birth', 'avatar']
+        fields = ['first_name', 'last_name', 'email', 'gender', 'date_of_birth', 'avatar']
 
 
 class UserRecipeListSerializer(serializers.ModelSerializer):

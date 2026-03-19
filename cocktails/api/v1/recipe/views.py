@@ -243,7 +243,9 @@ class RecipeViewSet(LanguageFilterMixin, mixins.ListModelMixin, mixins.RetrieveM
                     mixins.DestroyModelMixin, mixins.CreateModelMixin, GenericViewSet):
     queryset = Recipe.objects.filter(moderation_status='Approved', isEnabled=True)
     permission_classes = [AllowAny]
-    pagination_class = BasePagination
+    # Для клиентского приложения нужно получать сразу весь список рецептов
+    # без постраничной разбивки.
+    pagination_class = None
     serializer_class = RecipeListSerializer
     filterset_class = RecipeFilterSet
     parser_classes = [MultiPartParser, JSONParser]

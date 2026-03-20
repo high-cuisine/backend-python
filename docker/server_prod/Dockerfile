@@ -89,6 +89,7 @@ COPY --from=builder /install /usr/local
 
 # Копируем скрипты и код приложения
 COPY --chown=$USER:$USER ./docker/server_prod/entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
 COPY --chown=$USER:$USER ./cocktails $APP_HOME
 
 #

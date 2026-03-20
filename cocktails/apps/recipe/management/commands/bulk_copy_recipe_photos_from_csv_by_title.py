@@ -51,6 +51,16 @@ class Command(BaseCommand):
             choices=["RUS", "ENG"],
             help="Optional: update only one language.",
         )
+        parser.add_argument(
+            "--photo-id-col-rus",
+            default="copy_from",
+            help="Which CSV column contains photo id to use for RUS records. Default: copy_from.",
+        )
+        parser.add_argument(
+            "--photo-id-col-eng",
+            default="copy_to",
+            help="Which CSV column contains photo id to use for ENG records. Default: copy_to.",
+        )
 
     def handle(self, *args, **options):
         csv_path = options["csv_path"]
@@ -59,6 +69,8 @@ class Command(BaseCommand):
         delimiter = options["delimiter"]
         match_mode = options["match_mode"]
         only_language = options["language"]
+        photo_id_col_rus = options["photo_id_col_rus"]
+        photo_id_col_eng = options["photo_id_col_eng"]
 
         if delimiter == r"\t":
             delimiter = "\t"
@@ -79,20 +91,32 @@ class Command(BaseCommand):
 
         with open(csv_path, "r", encoding="utf-8-sig", newline="") as f:
             reader = csv.DictReader(f, delimiter=delimiter)
-            required_headers = {"title_rus", "title_eng", "copy_from", "copy_to"}
-            if not required_headers.issubset(set(reader.fieldnames or [])):
+            fieldnames = set(reader.fieldnames or [])
+            required_titles = {"title_rus", "title_eng"}
+            if not required_titles.issubset(fieldnames):
                 raise RuntimeError(
-                    f"CSV headers mismatch. Required: {sorted(required_headers)}. Found: {reader.fieldnames}"
+                    "CSV headers mismatch. Required titles: "
+                    f"{sorted(required_titles)}. Found: {reader.fieldnames}"
+                )
+            if photo_id_col_rus not in fieldnames:
+                raise RuntimeError(
+                    f"CSV headers mismatch. Missing photo id column for RUS: {photo_id_col_rus}. "
+                    f"Found: {reader.fieldnames}"
+                )
+            if photo_id_col_eng not in fieldnames:
+                raise RuntimeError(
+                    f"CSV headers mismatch. Missing photo id column for ENG: {photo_id_col_eng}. "
+                    f"Found: {reader.fieldnames}"
                 )
 
             for row in reader:
                 total += 1
                 title_rus = (row.get("title_rus") or "").strip()
                 title_eng = (row.get("title_eng") or "").strip()
-                copy_from = self._to_int(row.get("copy_from"))
-                copy_to = self._to_int(row.get("copy_to"))
+                photo_id_rus = self._to_int(row.get(photo_id_col_rus))
+                photo_id_eng = self._to_int(row.get(photo_id_col_eng))
 
-                if not copy_from and not copy_to:
+                if not photo_id_rus and not photo_id_eng:
                     continue
 
                 if only_language in (None, "RUS") and title_rus and copy_from:
@@ -101,7 +125,7 @@ class Command(BaseCommand):
                         title=title_rus,
                         match_mode=match_mode,
                     )
-                    photo_path = photo_map.get(copy_from)
+                    photo_path = photo_map.get(photo_id_rus)
                     if not recipe:
                         missing_recipe += 1
                         self.stdout.write(self.style.WARNING(f"RUS recipe not found: title={title_rus!r}"))
@@ -112,19 +136,19 @@ class Command(BaseCommand):
                         self._assign_photo(recipe, photo_path, dry_run=dry_run)
                         updated += 1
 
-                if only_language in (None, "ENG") and title_eng and copy_to:
+                if only_language in (None, "ENG") and title_eng and photo_id_eng:
                     recipe = self._find_recipe(
                         language="ENG",
                         title=title_eng,
                         match_mode=match_mode,
                     )
-                    photo_path = photo_map.get(copy_to)
+                    photo_path = photo_map.get(photo_id_eng)
                     if not recipe:
                         missing_recipe += 1
                         self.stdout.write(self.style.WARNING(f"ENG recipe not found: title={title_eng!r}"))
                     elif not photo_path:
                         missing_photo += 1
-                        self.stdout.write(self.style.WARNING(f"Photo not found for copy_to={copy_to} (title={title_eng!r})"))
+                        self.stdout.write(self.style.WARNING(f"Photo not found for photo_id_eng={photo_id_eng} (title={title_eng!r})"))
                     else:
                         self._assign_photo(recipe, photo_path, dry_run=dry_run)
                         updated += 1

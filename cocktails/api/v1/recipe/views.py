@@ -75,21 +75,15 @@ class IngredientCategorySectionViewSet(LanguageFilterMixin, mixins.ListModelMixi
                 selected_ingredient_ids = [int(id.strip()) for id in ingredients_param.split(',') if id.strip().isdigit()]
                 
                 if selected_ingredient_ids:
-                    # Find recipes that contain ALL selected ingredients (AND logic)
+                    # Find recipes that contain ANY selected ingredients (OR logic)
                     recipes_with_any = Recipe.objects.filter(
                         recipe_ingredients__ingredient__id__in=selected_ingredient_ids,
                         moderation_status='Approved',
                         isEnabled=True
                     ).distinct()
-                    
-                    # Use annotation to ensure ALL selected ingredients are present
-                    compatible_recipes = recipes_with_any.annotate(
-                        matched_main_ingredients=Count(
-                            'recipe_ingredients__ingredient__id',
-                            filter=Q(recipe_ingredients__ingredient__id__in=selected_ingredient_ids),
-                            distinct=True
-                        )
-                    ).filter(matched_main_ingredients=len(selected_ingredient_ids))
+
+                    # Compatible recipes are those that include at least one ingredient
+                    compatible_recipes = recipes_with_any
                     
                     # Get all ingredient IDs from compatible recipes (excluding selected ones)
                     compatible_ingredient_ids = RecipeIngredient.objects.filter(

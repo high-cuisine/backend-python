@@ -80,16 +80,10 @@ class RecipeFilterSet(filters.FilterSet):
         except ValueError:
             return queryset.none()
 
-        # AND logic: recipe must contain ALL specified ingredients
+        # OR logic: recipe must contain AT LEAST ONE specified ingredient
         return queryset.filter(
             recipe_ingredients__ingredient__id__in=ids
-        ).annotate(
-            matched_ingredients_count=Count(
-                'recipe_ingredients__ingredient__id',
-                filter=Q(recipe_ingredients__ingredient__id__in=ids),
-                distinct=True
-            )
-        ).filter(matched_ingredients_count=len(ids)).distinct()
+        ).distinct()
 
     def filter_tools(self, queryset, name, value):
         if not value:

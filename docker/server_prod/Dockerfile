@@ -1,20 +1,27 @@
 # syntax=docker/dockerfile:1
-# Используйте: DOCKER_BUILDKIT=1 docker compose build web (кэш pip ускорит повторные сборки)
-FROM python:3.11-alpine AS builder
+FROM python:3.11-slim-bookworm AS builder
 
-RUN apk update && \
-    apk add --no-cache build-base postgresql-dev gcc python3-dev musl-dev openssl libffi-dev openssl-dev py3-pip
+# Устанавливаем только необходимые зависимости для компиляции
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    libpq-dev \
+    libjpeg-dev \
+    libffi-dev \
+    libssl-dev \
+    && rm -rf /var/lib/apt/lists/*
 
 ARG TEMP_PATH=/usr/src/web
+WORKDIR $TEMP_PATH
 
-COPY ./cocktails/requirements.txt $TEMP_PATH/requirements.txt
+COPY ./cocktails/requirements.txt .
 
+# Кэширование pip и установка пакетов
 RUN --mount=type=cache,target=/root/.cache/pip \
     pip install --upgrade pip setuptools && \
-    pip install --no-warn-script-location --prefix=/install -r $TEMP_PATH/requirements.txt
+    pip install --no-warn-script-location --prefix=/install -r requirements.txt
 
-
-FROM python:3.11-alpine
+# --- Runtime Stage ---
+FROM python:3.11-slim-bookworm
 
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
@@ -26,24 +33,31 @@ ARG GID=1000
 ARG UID=1000
 ARG USER=ubuntu
 
-RUN apk update && \
-    apk add --no-cache postgresql-dev curl && \
-    addgroup -g $GID -S $USER && \
-    adduser -S $USER -G $USER --disabled-password --uid "$UID" && \
-    mkdir -p /gunicorn_socket /redis_socket && \
-    chmod -R 777 /gunicorn_socket /redis_socket && \
-    chown -R $USER:$USER /gunicorn_socket
+# Устанавливаем рантайм зависимости (без компиляторов!)
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libpq5 \
+    curl \
+    && rm -rf /var/lib/apt/lists/* \
+    && addgroup --gid $GID --system $USER \
+    && adduser --system --uid $UID --gid $GID $USER \
+    && mkdir -p /gunicorn_socket /redis_socket \
+    && chmod -R 777 /gunicorn_socket /redis_socket \
+    && chown -R $USER:$USER /gunicorn_socket
 
 WORKDIR $APP_HOME
 
+# Копируем пакеты из builder
 COPY --from=builder /install /usr/local
+
 COPY --chown=$USER:$USER ./docker/server_prod/entrypoint.sh /
 COPY --chown=$USER:$USER ./cocktails $APP_HOME
 
 RUN chmod +x /entrypoint.sh && \
-    mkdir -p static media  && \
+    mkdir -p static media && \
     chown -R $USER:$USER $APP_HOME static media
 
 USER $USER
 
 EXPOSE 8000
+
+ENTRYPOINT ["/entrypoint.sh"]

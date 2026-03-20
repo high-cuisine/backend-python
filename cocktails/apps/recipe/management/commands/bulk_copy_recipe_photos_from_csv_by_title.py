@@ -119,7 +119,7 @@ class Command(BaseCommand):
                 if not photo_id_rus and not photo_id_eng:
                     continue
 
-                if only_language in (None, "RUS") and title_rus and copy_from:
+                if only_language in (None, "RUS") and title_rus and photo_id_rus:
                     recipe = self._find_recipe(
                         language="RUS",
                         title=title_rus,
@@ -131,7 +131,7 @@ class Command(BaseCommand):
                         self.stdout.write(self.style.WARNING(f"RUS recipe not found: title={title_rus!r}"))
                     elif not photo_path:
                         missing_photo += 1
-                        self.stdout.write(self.style.WARNING(f"Photo not found for copy_from={copy_from} (title={title_rus!r})"))
+                        self.stdout.write(self.style.WARNING(f"Photo not found for photo_id_rus={photo_id_rus} (title={title_rus!r})"))
                     else:
                         self._assign_photo(recipe, photo_path, dry_run=dry_run)
                         updated += 1

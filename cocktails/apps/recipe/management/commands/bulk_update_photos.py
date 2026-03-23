@@ -188,6 +188,22 @@ class Command(BaseCommand):
         return basename if basename else f"{prefix}.jpg"
 
     @staticmethod
+    def _resolve_local_photo_path(photo_source: str) -> str:
+        """If path has no extension and the file is missing, try .jpg / .jpeg / .png / .webp."""
+        if photo_source.startswith("http://") or photo_source.startswith("https://"):
+            return photo_source
+        if os.path.isfile(photo_source):
+            return photo_source
+        base = os.path.basename(photo_source)
+        if "." in base:
+            return photo_source
+        for ext in (".jpg", ".jpeg", ".png", ".webp"):
+            candidate = photo_source + ext
+            if os.path.isfile(candidate):
+                return candidate
+        return photo_source
+
+    @staticmethod
     def _read_content_as_django_file(*, photo_source: str, fallback_filename: str) -> Tuple[File, str]:
         """
         Returns: (ContentFile-like object, filename)
@@ -198,6 +214,7 @@ class Command(BaseCommand):
             filename = Command._guess_filename_from_source(photo_source, prefix=fallback_filename)
             return ContentFile(resp.content), filename
 
+        photo_source = Command._resolve_local_photo_path(photo_source)
         filename = os.path.basename(photo_source) or fallback_filename
         with open(photo_source, "rb") as f:
             # ContentFile copies bytes; simplest/robust for many files.

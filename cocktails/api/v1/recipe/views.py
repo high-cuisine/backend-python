@@ -16,7 +16,7 @@ from base.pagination import BasePagination
 from rest_framework.permissions import AllowAny
 from .swagger import *
 from apps.recipe.models import *
-from django.db.models import Count, Q
+from django.db.models import Count, Prefetch, Q
 from drf_yasg.utils import swagger_auto_schema
 from .filters import RecipeFilterSet
 from django.http import Http404
@@ -39,13 +39,26 @@ class LanguageFilterMixin:
 
 
 class IngredientCategorySectionViewSet(LanguageFilterMixin, mixins.ListModelMixin, GenericViewSet):
-    queryset = IngredientCategorySection.objects.prefetch_related('categories__ingredients')
+    queryset = IngredientCategorySection.objects.all()
     serializer_class = IngredientCategorySectionSerializer
     permission_classes = [AllowAny]
 
     def get_queryset(self):
         qs = super().get_queryset()
-        return self.filter_by_language(qs)
+        qs = self.filter_by_language(qs)
+
+        lang_code = 'RUS' if self.get_language() == 'rus' else 'ENG'
+        qs = qs.prefetch_related(
+            Prefetch(
+                'categories',
+                queryset=IngredientCategory.objects.filter(language=lang_code),
+            ),
+            Prefetch(
+                'categories__ingredients',
+                queryset=Ingredient.objects.filter(language=lang_code).order_by('name'),
+            ),
+        )
+        return qs
 
     @swagger_auto_schema(**ingredient_category_block_list)
     def list(self, request, *args, **kwargs):
@@ -172,14 +185,21 @@ class IngredientCategorySectionViewSet(LanguageFilterMixin, mixins.ListModelMixi
 
 
 class IngredientCategoryViewSet(LanguageFilterMixin, mixins.ListModelMixin, GenericViewSet):
-    queryset = IngredientCategory.objects.prefetch_related('ingredients')
+    queryset = IngredientCategory.objects.all()
     serializer_class = IngredientCategorySerializer
     permission_classes = [AllowAny]
 
     def get_queryset(self):
         qs = super().get_queryset()
-
         qs = self.filter_by_language(qs)
+
+        lang_code = 'RUS' if self.get_language() == 'rus' else 'ENG'
+        qs = qs.prefetch_related(
+            Prefetch(
+                'ingredients',
+                queryset=Ingredient.objects.filter(language=lang_code).order_by('name'),
+            ),
+        )
 
         category_id = self.request.query_params.get('id')
         if category_id:

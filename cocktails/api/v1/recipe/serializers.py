@@ -112,7 +112,7 @@ class IngredientCategorySectionSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = IngredientCategorySection
-        fields = ['id', 'name', 'categories']
+        fields = ['id', 'name', 'is_product', 'categories']
 
 
 class ViewToolSerializer(serializers.ModelSerializer):

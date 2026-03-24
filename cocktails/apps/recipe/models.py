@@ -60,6 +60,7 @@ class IngredientCategorySection(CreatedUpdatedModel):
     )
     name = models.CharField(max_length=255, verbose_name='Название блока категорий')
     categories = models.ManyToManyField(IngredientCategory, related_name='category_blocks', verbose_name='Категории')
+    is_product = models.BooleanField(default=False, verbose_name='Раздел "Продукты"?', help_text='True для разделов типа "Продукты" (не напитки). Нужно для корректной фильтрации в приложении.')
 
     class Meta:
         verbose_name = 'Блок категорий'

@@ -172,9 +172,8 @@ class IngredientCategorySectionViewSet(LanguageFilterMixin, mixins.ListModelMixi
             if filtered_categories:
                 # Create a copy of the block to avoid modifying original data
                 filtered_block = {
-                    'id': block['id'],
-                    'name': block['name'],
-                    'categories': filtered_categories
+                    **block,
+                    'categories': filtered_categories,
                 }
                 filtered_blocks.append(filtered_block)
         
